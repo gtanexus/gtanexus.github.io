@@ -67,17 +67,17 @@ const config = {
           {
             href: 'https://discord.gg/kv87XhfsCB',
             label: 'Discord',
-            position: 'left',
+            position: 'right',
           },
           {
             href: 'https://cfx.re/join/8opeb5',
             label: 'FiveM',
-            position: 'left',
+            position: 'right',
           },
           {
             href: 'https://neptunorp.tebex.io',
             label: 'Webstore',
-            position: 'left',
+            position: 'right',
           },
         ],
       },
