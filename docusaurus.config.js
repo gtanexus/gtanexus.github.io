@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Neptuno RP',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Documentacion oficial de Neptuno RP',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -60,24 +60,24 @@ const config = {
       navbar: {
         title: 'Neptuno RP',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Neptuno RP Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
             href: 'https://discord.gg/kv87XhfsCB',
             label: 'Discord',
-            position: 'right',
+            position: 'left',
           },
           {
             href: 'https://cfx.re/join/8opeb5',
-            label: 'Fivem',
-            position: 'right',
+            label: 'FiveM',
+            position: 'left',
           },
           {
             href: 'https://neptunorp.tebex.io',
             label: 'Webstore',
-            position: 'right',
+            position: 'left',
           },
         ],
       },
@@ -100,6 +100,12 @@ const config = {
         defaultMode: 'dark',
         disableSwitch: true,
         respectPrefersColorScheme: true,
+      },
+      algolia: {
+        contextualSearch: true,
+        appId: 'ARZE3XSATT',
+        apiKey: '3be0cb1b1a3a373a74bd61c32148da2b',
+        indexName: 'nrp',
       },
     }),
 };
