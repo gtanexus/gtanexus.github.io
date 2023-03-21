@@ -76,7 +76,7 @@ const config = {
           },
           {
             href: 'https://neptunorp.tebex.io',
-            label: 'Webstore',
+            label: 'Tienda',
             position: 'right',
           },
         ],
