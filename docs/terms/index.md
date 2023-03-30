@@ -1,7 +1,6 @@
 ---
-slug: /
-title: Documentation
-sidebar_position: 1
+title: Términos y Condiciones
+sidebar_position: 2
 ---
 
 Términos y Condiciones de Donaciones en Neptuno RP
