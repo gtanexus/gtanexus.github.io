@@ -12,10 +12,10 @@ Bienvenido a la documentación oficial del servidor de roleplay Neptuno RP. Aqu�
 
 Neptuno RP cuenta con varias normativas que deben ser respetadas por todos los usuarios del servidor. A continuación, se presentan las diferentes categorías de normativas:
 
-- [Normativas Generales](./normativas-generales.md)
-- [Normativas de Organizaciones Criminales](./normativas-criminales.md)
-- [Normativas de Empresas](./normativas-empresas.md)
-- [Normativas de Trabajos](./normativas-trabajos.md)
+- [Normativas Generales](./terms/index.mdnormativas-generales.md)
+- [Normativas de Organizaciones Criminales](./terms/index.mdnormativas-generales.md)
+- [Normativas de Empresas](./terms/index.mdnormativas-generales.md)
+- [Normativas de Trabajos](./terms/index.mdnormativas-generales.md)
 
 ## Soporte
 
@@ -30,16 +30,16 @@ También puedes encontrar información útil en la sección de [Preguntas Frecue
 
 Para ayudarte a comenzar y a mejorar tu experiencia en Neptuno RP, hemos preparado una serie de guías y tutoriales. A continuación, se presentan algunas de las más importantes:
 
-- [Guía de Creación de Personaje](./guia-creacion-personaje.md)
-- [Guía de Trabajos](./guia-trabajos.md)
-- [Guía de Organizaciones](./guia-organizaciones.md)
-- [Guía de Negocios](./guia-negocios.md)
+- [Guía de Creación de Personaje](./terms/index.mdnormativas-generales.md)
+- [Guía de Trabajos](./terms/index.mdnormativas-generales.md)
+- [Guía de Organizaciones](./terms/index.mdnormativas-generales.md)
+- [Guía de Negocios](./terms/index.mdnormativas-generales.md)
 
 ## Recursos
 
 Además de la información proporcionada en esta documentación, también contamos con recursos externos que pueden ser de tu interés:
 
-- [Tienda de Neptuno RP](https://neptunorp.es/tienda/)
+- [Tienda de Neptuno RP](https://neptunorp.com)
 - [Página de Twitter](https://twitter.com/neptunorp)
 - [Canal de YouTube](https://www.youtube.com/channel/UCrrcLeGb4e3uV7KjxFtZuXg)
 
