@@ -56,7 +56,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/docusaurus-social-card.png',
       navbar: {
         title: 'Neptuno RP',
         logo: {
@@ -75,7 +75,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://neptunorp.tebex.io',
+            href: 'https://neptunorp.com',
             label: 'Tienda',
             position: 'right',
           },
