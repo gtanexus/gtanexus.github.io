@@ -61,7 +61,7 @@ const config = {
         title: 'Neptuno RP',
         logo: {
           alt: 'Neptuno RP Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
