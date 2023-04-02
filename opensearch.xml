@@ -4,8 +4,8 @@
   <ShortName>Neptuno RP</ShortName>
   <Description>Search Neptuno RP</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://neptunorp.github.io/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://neptunorp.github.io/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://neptunorp.github.io/opensearch.xml" />
-  <moz:SearchForm>https://neptunorp.github.io/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://docs.neptunorp.com/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://docs.neptunorp.com/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.neptunorp.com/opensearch.xml" />
+  <moz:SearchForm>https://docs.neptunorp.com/</moz:SearchForm>
 </OpenSearchDescription>
