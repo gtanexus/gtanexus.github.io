@@ -6,8 +6,7 @@ sidebar_position: 2
 # Términos y Condiciones de Donaciones en Neptuno RP
 
 ## 1. Donaciones
-- 1.1. Los usuarios pueden realizar donaciones voluntarias al servidor de Neptuno RP y a cambio recibirán bienes virtuales en el juego. Estos bienes virtuales pueden incluir, pero no se limitan a, dinero del juego, artículos, vehículos y membresías VIP.
-- 1.2. Es importante tener en cuenta que las donaciones no son compras, ya que no se garantiza ningún bien o servicio específico a cambio de una donación.
+- 1.1. Es importante tener en cuenta que las donaciones no son compras, ya que no se garantiza ningún bien o servicio específico a cambio de una donación.
 
 ## 2. Membresías VIP
 - 2.1. Las membresías VIP son un bien virtual que se ofrece en el servidor a cambio de una donación. Las membresías VIP pueden incluir, pero no se limitan a, acceso a funciones exclusivas, artículos especiales y ventajas en el juego.
@@ -19,7 +18,6 @@ sidebar_position: 2
 
 ## 4. Política de privacidad
 - 4.1. Los datos personales proporcionados por los usuarios al realizar una donación se manejan de acuerdo con nuestra política de privacidad.
-- 4.2. La información personal del usuario no se compartirá con terceros sin el consentimiento del usuario.
 
 ## 5. Uso de bienes virtuales
 - 5.1. Todos los bienes virtuales recibidos a través de una donación solo pueden ser utilizados dentro del juego y de acuerdo con las reglas establecidas por el servidor de Neptuno RP.
@@ -34,7 +32,7 @@ sidebar_position: 2
 
 ## 8. Pagos y cancelaciones
 - 8.1. Todas las donaciones son finales y no son reembolsables. Se aconseja a los usuarios que estén seguros de que desean realizar una donación antes de proceder con ella.
-- 8.2. En caso de que se produzca un error en el sistema que impida que se entreguen los bienes virtuales correspondientes a la donación, se reembolsará al usuario el valor total de la donación o se ofrecerá un bien virtual equivalente.
+- 8.2. En caso de que se produzca un error en el sistema que impida que se entreguen los bienes virtuales correspondientes a la donación, se reembolsará al usuario el valor total de la donación o se ofrecerá un bien virtual equivalente. (CAMBIO PENDIENTE)
 - 8.3. Neptuno RP se reserva el derecho de cancelar o rechazar cualquier donación por cualquier motivo. En caso de que se cancele una donación, se reembolsará al usuario el valor total de la donación.
 
 ## 9. Modificaciones en los Términos y Condiciones
