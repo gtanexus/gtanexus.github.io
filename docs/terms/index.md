@@ -14,7 +14,8 @@ sidebar_position: 3
 - 2.1. Las N-Coins son un bien virtual que se puede adquirir a través de donaciones y solo pueden ser utilizadas dentro del juego Neptuno RP, de acuerdo con nuestras políticas y reglas.
 - 2.2. Los objetos in-game obtenidos por medio de N-Coins podrán ser tradeables entre usuarios de acuerdo con las reglas establecidas por el servidor de Neptuno RP.
 - 2.3. Las N-Coins no tienen valor monetario fuera del servidor Neptuno RP y no pueden ser transferidas entre jugadores.
-- 2.4. Cualquier intento de fraude o uso indebido de N-Coins puede resultar en la suspensión o eliminación de tu cuenta.
+- 2.4. Neptuno RP no se hace responsable de malos entendidos o compras realizadas en personajes incorrectos.
+- 2.5. Cualquier intento de fraude o uso indebido de N-Coins puede resultar en la suspensión, eliminación y/o el baneo de tu cuenta en los servidores de Neptuno RP.
 
 ## 3. Membresías VIP
 - 3.1. Las membresías VIP son un bien virtual que se ofrece en el servidor a cambio de una donación. Las membresías VIP pueden incluir, pero no se limitan a, acceso a funciones exclusivas, artículos especiales y ventajas en el juego.
