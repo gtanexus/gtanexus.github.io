@@ -1,6 +1,7 @@
 ---
+sidebar_position: 2
 id: normativa-gangs
-title: Normativa de Organizaciones Criminales
+title: Organizaciones Criminales
 sidebar_label: Organizaciones Criminales
 ---
 

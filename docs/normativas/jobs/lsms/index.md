@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
-id: normativa-lspd
-title: Departamento de Policía (LSPD)
-sidebar_label: Departamento de Policía (LSPD)
+sidebar_position: 3
+id: normativa-lsms
+title: Servicio Médico de Los Santos (LSMS)
+sidebar_label: Servicio Médico de Los Santos (LSMS)
 ---
 
 ## 1. Conducta y ética profesional
