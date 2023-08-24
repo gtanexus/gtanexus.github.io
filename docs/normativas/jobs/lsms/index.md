@@ -5,58 +5,126 @@ title: Servicio Médico de Los Santos (LSMS)
 sidebar_label: Servicio Médico de Los Santos (LSMS)
 ---
 
-## 1. Conducta y ética profesional
+## Normativa General 
 
-- 1.1. Los miembros de la LSPD deben mantener una conducta profesional y ética en todo momento.
+- Todos los miembros de la facción deben conocer la normativa general del servidor y deben tenerla en consideración al momento de desenvolverse tanto dentro como fuera de servicio.
 
-## 2. Cumplimiento de leyes y normas
+### Requisitos para formar parte de los LSMS 
 
-- 2.1. Es responsabilidad de los miembros de la LSPD cumplir y hacer cumplir las leyes y normas establecidas.
+- Tener conocimientos básicos del rol médico y estar dispuesto a aprender más.-  
 
-## 3. Uso adecuado de la fuerza
+### Mostrar un comportamiento maduro y respetuoso en todo momento. 
 
-- 3.1. El uso de la fuerza por parte de los agentes de la LSPD debe ser proporcional y justificado según las circunstancias.
+- Demostrar habilidades de comunicación efectiva y trabajo en equipo. 
 
-## 4. Trato a los ciudadanos
+- Completar un proceso de solicitud y entrenamiento a evaluarse por parte de la dirección del hospital. 
 
-- 4.1. Se debe tratar a los ciudadanos con respeto y cortesía en todo momento, independientemente de su origen étnico, religión o condición social.
+### Roles y Responsabilidades 
 
-## 5. Uso de armas de fuego
+**La Facción Médica tendrá diferentes roles, cada uno con sus responsabilidades específicas:**
 
-- 5.1. El uso de armas de fuego está permitido únicamente en situaciones de legítima defensa o cuando sea necesario para proteger la vida de los agentes o de terceros.
+- **Especialistas**: Responsables de la atención médica general y especializada, diagnóstico, tratamiento de pacientes, mantener registros dichas atenciones. 
 
-## 6. Confidencialidad y protección de información
+- **Médicos**: Responsables de la atención médica general, diagnóstico, tratamiento de pacientes y mantener registros dichas atenciones. 
 
-- 6.1. Los miembros de la LSPD deben mantener la confidencialidad de la información sensible y protegerla de acceso no autorizado.
+- **Paramédicos**: Proporcionan atención médica de emergencia en el campo y durante situaciones críticas. 
 
-## 7. Uso adecuado de vehículos policiales
+- **Reclutas**: Asisten a los paramédicos en las atenciones médicas de emergencia. 
 
-- 7.1. Los vehículos policiales deben utilizarse exclusivamente para fines oficiales y de acuerdo con las normas de tránsito.
+:::note Nota
+No obstante lo antes mencionado, los médicos y especialistas también están facultados para proporcionar atención médica de emergencia en el campo.
+:::
 
-## 8. Colaboración con otras agencias
+ 
 
-- 8.1. Los miembros de la LSPD deben colaborar y coordinarse adecuadamente con otras agencias de seguridad y fuerzas del orden.
+### Reglas del sevicio 
 
-## 9. Registro y manejo de evidencias
+- Se deben respetar los protocolos médicos básicos, como la higiene, el uso adecuado de equipo de protección y la administración de tratamientos. 
 
-- 9.1. Se debe llevar un registro adecuado de las evidencias recolectadas en cada caso y garantizar su correcto manejo y preservación.
+- El consentimiento del jugador es necesario antes de realizar cualquier procedimiento médico o tratamiento. 
 
-## 10. Cumplimiento de protocolos y procedimientos
+- En situaciones de emergencia, la atención médica debe priorizarse en función de la gravedad de la lesión o enfermedad. 
 
-- 10.1. Los miembros de la LSPD deben cumplir con los protocolos y procedimientos establecidos por el departamento en todas sus actuaciones.
+- No se debe abusar de la información médica obtenida para beneficiarse en tramas no médicas. 
 
-## 11. Actualización y formación continua
+- Toda información médica de cualquier paciente obtenida en servicio, es de carácter confidencial y solo puede ser revelada a la policía en casos excepcionales de investigación criminal, solicitando previamente una autorización judicial. 
 
-- 11.1. Los agentes de la LSPD deben mantenerse actualizados en las técnicas y conocimientos necesarios para el desempeño de sus funciones a través de la formación continua.
+- Toda atención médica, sea o no de emergencia, debe realizarse en servicio y utilizando el uniforme correspondiente.  
 
-## 12. Uso adecuado de la radio y comunicaciones
+- Una vez que se ficha la entrada en servicio, es obligatorio mantenerse disponible por al menos 30 minutos cronológicos. 
 
-- 12.1. Las comunicaciones por radio deben utilizarse de manera clara, precisa y respetando los protocolos establecidos.
+- Es obligatorio salir de servicio una vez que el funcionario no se encuentre disponible para realizar cualquier  atención médica. 
 
-## 13. Prohibición de discriminación y abuso de autoridad
+  
 
-- 13.1. Se prohíbe cualquier forma de discriminación, abuso de autoridad o trato injusto hacia los ciudadanos por parte de los miembros de la LSPD.
+### Colaboración y Comunicación 
 
-## 14. Protección y salvaguarda de la vida
+- La Facción Médica debe colaborar con otras facciones  para garantizar un entorno fluido y agradable. 
 
-- 14.1. La protección y salvaguarda de la vida es la prioridad principal de los miembros de la LSPD en
+- La comunicación entre los miembros de la Facción Médica es esencial para coordinar la atención y compartir conocimientos. 
+
+- Es obligatorio el uso de las frecuencias radiales establecidas para la facción, mientras los funcionarios se encuentren en servicio. 
+
+- La comunicación OOC es permitida única y exclusivamente para pactar roles que incluyan un seguimiento médico prolongado en el tiempo. Esta debe hacerse de manera respetuosa y debe dejarse constancia en el registro médico del paciente que se llevará adecuadamente en discord. 
+
+ 
+
+### Unifomes y equipos médicos 
+
+- Los miembros de la Facción Médica deben usar uniformes médicos adecuados para su rol. 
+
+- El equipo médico debe ser utilizado de manera realista y acorde a las circunstancias, considerando la disponibilidad de recursos. 
+
+- El equipo médico será suministrado por la jefatura del hospital y este debe ser utilizado única y exclusivamente cuando los miembros se encuentren en servicio. Está prohibido vender o regalar cualquier item de carácter médico. 
+
+ 
+
+### Situaciones de rol 
+
+- En situaciones médicas, los miembros deben describir con detalle los procedimientos y tratamientos realizados, evitando la trivialización de enfermedades o lesiones graves. 
+
+- Se debe mantener un equilibrio entre el realismo médico y la diversión de los jugadores, evitando detalles gráficos innecesarios que puedan resultar incómodos para otros. 
+
+  
+
+### Medicamentos y tratamientos 
+
+- Los medicamentos y tratamientos deben ser utilizados de manera realista y basados en información médica deseablemente precisa. 
+
+- No se deben inventar medicamentos o procedimientos médicos sin investigar adecuadamente. 
+
+### Resolución de conflictos 
+
+- En situaciones de desacuerdo, los miembros de la facción deben priorizar la resolución pacífica y mantener el respeto mutuo. 
+
+- Si surgen problemas internos, se debe recurrir al de la facción o a los administradores del servidor para buscar una solución. 
+
+  
+
+### Emergencias y Coordinación 
+
+- En situaciones de emergencia, los miembros de la Facción Médica deben estar preparados para actuar rápidamente y coordinar sus esfuerzos para proporcionar la mejor atención posible. 
+
+- La comunicación efectiva es clave durante las emergencias para evitar confusiones y maximizar la eficiencia en el tratamiento de los pacientes. 
+
+### Registro y documentación 
+
+- Los miembros  deben llevar registros precisos de los tratamientos administrados, diagnósticos realizados y cualquier otra información relevante en un formato apropiado (fichas médicas establecidas en el discord de la facción, organizadas alfabéticamente por el nombre del paciente) ya que facilita la continuidad de la atención médica en el futuro. 
+
+### Respeto a las decisiones del jugador 
+
+- Los miembros de la Facción Médica deben respetar las decisiones de otros jugadores en cuanto a la atención médica y los tratamientos, incluso si difieren de las recomendaciones médicas. 
+ 
+### Sanciones ante malos comportamientos 
+
+- Cualquier forma de acoso, discriminación o comportamiento irrespetuoso no será tolerada dentro de la facción, como en el servidor en general. 
+
+- Los miembros que no cumplan con las normativas podrían enfrentar advertencias, suspensión de roles médicos o expulsión de la Facción Médica, según la gravedad de la infracción. 
+
+### Actualizaciones y Desarrollo 
+
+- Esta normativa está abierta a modificaciones y actualizaciones en función de la retroalimentación de los miembros y la evolución del servidor. 
+
+- Los miembros son alentados a expresar sus sugerencias y preocupaciones de manera constructiva para mantener un ambiente de juego excepcional. 
+
+- Cada miembro de la Facción Médica tiene la responsabilidad y se compromete a cumplir con estas normas y trabajar en conjunto para mantener un ambiente de juego enriquecedor y divertido.
