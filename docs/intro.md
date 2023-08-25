@@ -12,10 +12,10 @@ Bienvenido a la documentación oficial del servidor de roleplay Neptuno RP. Aqu�
 
 Neptuno RP cuenta con varias normativas que deben ser respetadas por todos los usuarios del servidor. A continuación, se presentan las diferentes categorías de normativas:
 
-- [Normativas Generales](./terms/index.md)
-- [Normativas de Organizaciones Criminales](./terms/index.md)
-- [Normativas de Empresas](./terms/index.md)
-- [Normativas de Trabajos](./terms/index.md)
+- [Normativas Generales](./donaciones/index.md)
+- [Normativas de Organizaciones Criminales](./donaciones/index.md)
+- [Normativas de Empresas](./donaciones/index.md)
+- [Normativas de Trabajos](./donaciones/index.md)
 
 ## Soporte
 
@@ -24,16 +24,16 @@ Si tienes alguna duda o problema relacionado con el servidor, puedes buscar ayud
 - [Foro de Neptuno RP](https://neptunorp.es/foro/)
 - [Discord de Neptuno RP](https://discord.gg/neptunorp)
 
-También puedes encontrar información útil en la sección de [Preguntas Frecuentes](./terms/index.md).
+También puedes encontrar información útil en la sección de [Preguntas Frecuentes](./donaciones/index.md).
 
 ## Guías y Tutoriales
 
 Para ayudarte a comenzar y a mejorar tu experiencia en Neptuno RP, hemos preparado una serie de guías y tutoriales. A continuación, se presentan algunas de las más importantes:
 
-- [Guía de Creación de Personaje](./terms/index.md)
-- [Guía de Trabajos](./terms/index.md)
-- [Guía de Organizaciones](./terms/index.md)
-- [Guía de Negocios](./terms/index.md)
+- [Guía de Creación de Personaje](./donaciones/index.md)
+- [Guía de Trabajos](./donaciones/index.md)
+- [Guía de Organizaciones](./donaciones/index.md)
+- [Guía de Negocios](./donaciones/index.md)
 
 ## Recursos
 
