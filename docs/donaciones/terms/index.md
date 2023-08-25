@@ -1,6 +1,6 @@
 ---
 title: Términos y Condiciones
-sidebar_position: 3
+# sidebar_position: 3
 ---
 
 # Términos y Condiciones de Donaciones en Neptuno RP
