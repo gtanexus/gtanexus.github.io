@@ -1,6 +1,6 @@
 ---
 id: normativa-mafias
-title: Normativa de Mafias
+title: Mafias
 sidebar_label: Mafias
 sidebar_position: 2
 ---

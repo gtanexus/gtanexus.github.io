@@ -1,6 +1,6 @@
 ---
 id: normativa-bandas
-title: Normativa de Bandas
+title: Bandas
 sidebar_label: Bandas
 sidebar_position: 1
 ---

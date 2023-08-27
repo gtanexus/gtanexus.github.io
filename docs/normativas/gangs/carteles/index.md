@@ -1,6 +1,6 @@
 ---
 id: normativa-carteles
-title: Normativa de Carteles
+title: Carteles
 sidebar_label: Carteles
 sidebar_position: 3
 ---
