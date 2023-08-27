@@ -2,7 +2,7 @@
 id: normativa-bandas
 title: Normativa de Bandas
 sidebar_label: Bandas
-sidebar_position: 3
+sidebar_position: 1
 ---
 
 ## 1. Cumplimiento de normas

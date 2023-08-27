@@ -2,7 +2,7 @@
 id: normativa-carteles
 title: Normativa de Carteles
 sidebar_label: Carteles
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 ## 1. Cumplimiento de normas
