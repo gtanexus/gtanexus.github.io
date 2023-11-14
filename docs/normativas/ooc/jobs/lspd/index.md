@@ -2,7 +2,7 @@
 sidebar_position: 1
 id: normativa-lspd
 title: Departamento de Policía (LSPD)
-sidebar_label: Departamento de Policía (LSPD)
+sidebar_label: Departamento de Policía
 ---
 
 ## 1. Conducta y ética profesional

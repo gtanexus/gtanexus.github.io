@@ -1,8 +1,8 @@
 ---
 sidebar_position: 3
-id: normativa-lsms
-title: Servicio Médico de Los Santos (LSMS)
-sidebar_label: Servicio Médico de Los Santos (LSMS)
+id: normativa-ems
+title: Servicio Médico (EMS)
+sidebar_label: Servicio Médico
 ---
 
 ## Normativa General 

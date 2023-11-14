@@ -2,7 +2,7 @@
 sidebar_position: 2
 id: normativa-lspd
 title: Departamento del Sheriff (LSSD)
-sidebar_label: Departamento del Sheriff (LSSD)
+sidebar_label: Departamento del Sheriff
 ---
 
 ## 1. Conducta y ética profesional
