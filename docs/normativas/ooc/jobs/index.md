@@ -6,7 +6,7 @@ title: Facciones
 
 ## Normativas de Facciones
 
-- Las normativas de facciones establecen las reglas y directrices específicas que deben seguir los miembros de cada facción en el servidor de FiveM - Neptuno RP. Estas normativas están diseñadas para garantizar un ambiente de juego justo, realista y coherente dentro de cada facción.
+- Las normativas de facciones establecen las reglas y directrices específicas que deben seguir los miembros de cada facción en el servidor de FiveM - GTA NEXUS. Estas normativas están diseñadas para garantizar un ambiente de juego justo, realista y coherente dentro de cada facción.
 
 - **En cada facción, los jugadores deben cumplir con las siguientes normativas:**
 

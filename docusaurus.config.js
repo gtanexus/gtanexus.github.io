@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Neptuno RP',
-  tagline: 'Documentacion oficial de Neptuno RP',
+  title: 'GTA NEXUS',
+  tagline: 'Documentacion oficial de GTA NEXUS',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -58,9 +58,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.png',
       navbar: {
-        title: 'Neptuno RP',
+        title: 'GTA NEXUS',
         logo: {
-          alt: 'Neptuno RP Logo',
+          alt: 'GTA NEXUS Logo',
           src: 'img/logo.png',
         },
         items: [
@@ -83,9 +83,9 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Neptuno RP`,
+        copyright: `Copyright © ${new Date().getFullYear()} GTA NEXUS`,
         logo: {
-          alt: 'Neptuno RP',
+          alt: 'GTA NEXUS',
           src: 'img/footer.png',
           href: 'https://neptunorp.tebex.io',
           width: 200,
