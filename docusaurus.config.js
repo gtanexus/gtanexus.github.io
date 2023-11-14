@@ -75,7 +75,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://gtanexus.gg',
+            href: 'https://gtanexus.tebex.io',
             label: 'Tienda',
             position: 'right',
           },
