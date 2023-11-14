@@ -6,7 +6,7 @@ sidebar_label: Los Santos Customs
 ---
 
 ### Cumplimiento de Normas Generales
-- Todos los miembros de Los Santos Customs deben cumplir con las normas específicas de NeptunoRP.
+- Todos los miembros de Los Santos Customs deben cumplir con las normas específicas de GTA NEXUS.
 
 ### Uso Responsable del Taller y Grúa
 - Queda prohibido estar en servicio sin estar en el taller o usar la grúa sin autorización. El incumplimiento de esta norma puede resultar en la expulsión del taller.

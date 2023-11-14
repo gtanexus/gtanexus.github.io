@@ -18,8 +18,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'neptunorp', // Usually your GitHub org/user name.
-  projectName: 'neptunorp.github.io', // Usually your repo name.
+  organizationName: 'gtanexus', // Usually your GitHub org/user name.
+  projectName: 'gtanexus.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -87,7 +87,7 @@ const config = {
         logo: {
           alt: 'GTA NEXUS',
           src: 'img/footer.png',
-          href: 'https://neptunorp.tebex.io',
+          href: 'https://gtanexus.tebex.io',
           width: 200,
           height: 68,
         },

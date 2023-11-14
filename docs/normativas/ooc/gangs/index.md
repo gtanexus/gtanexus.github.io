@@ -7,7 +7,7 @@ sidebar_label: Organizaciones Criminales
 
 ## 1. Cumplimiento de normas
 
-- 1.1. Cumplir todas las normas específicas de NeptunoRP.
+- 1.1. Cumplir todas las normas específicas de GTA NEXUS.
 
 ## 2. Ausencia en el taller
 
