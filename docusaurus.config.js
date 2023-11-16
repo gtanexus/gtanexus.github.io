@@ -70,12 +70,12 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://cfx.re/join/8opeb5',
+            href: 'https://cfx.re/join/ogoldv',
             label: 'FiveM',
             position: 'right',
           },
           {
-            href: 'https://gtanexus.tebex.io',
+            href: 'https://www.gtanexus.gg',
             label: 'Tienda',
             position: 'right',
           },
@@ -87,7 +87,7 @@ const config = {
         logo: {
           alt: 'GTA NEXUS',
           src: 'img/footer.png',
-          href: 'https://gtanexus.tebex.io',
+          href: 'https://www.gtanexus.gg',
           width: 200,
           height: 68,
         },
