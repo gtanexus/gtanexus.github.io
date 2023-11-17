@@ -1,6 +1,6 @@
 ---
 slug: /
-# title: GTA NEXUS | Documentación
+title: Documentación
 sidebar_position: 1
 ---
 
