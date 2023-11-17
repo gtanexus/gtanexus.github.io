@@ -58,7 +58,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.png',
       navbar: {
-        title: 'GTA NEXUS',
+        title: 'GTA NEXUS | Documentación',
         logo: {
           alt: 'GTA NEXUS Logo',
           src: 'img/logo.png',
