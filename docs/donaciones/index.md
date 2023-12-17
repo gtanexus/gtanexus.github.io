@@ -22,7 +22,7 @@ sidebar_position: 4
 - 3.2. Las membresías VIP son válidas por el período de tiempo especificado en el momento de la donación. Después de que caduque la membresía VIP, el usuario perderá cualquier beneficio asociado con ella.
 
 ## 4. Política de privacidad
-- 4.1. Los datos personales proporcionados por los usuarios al realizar una donación se manejan de acuerdo con la política de privacidad de [Tebex Limited](https://store.gtanexus.gg/terms/privacy).
+- 4.1. Los datos personales proporcionados por los usuarios al realizar una donación se manejan de acuerdo con la política de privacidad de [Tebex Limited](https://www.gtanexus.gg/terms/privacy).
 
 ## 7. Pagos y cancelaciones
 - 7.1. Todas las donaciones son finales y no son reembolsables. Se aconseja a los usuarios que estén seguros de que desean realizar una donación antes de proceder con ella.
