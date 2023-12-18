@@ -1,5 +1,5 @@
 ---
-title: Controles
+title: Controles y Comandos
 sidebar_position: 5
 ---
 
@@ -17,6 +17,7 @@ Como usuario ten en cuenta que los binds que veras a continuación se pueden mod
 - Menú Radial **F1**
 - Abrir interfaz de Trabajos/Jugadores Online **FIN o HOME**
 - Menu de prendas **H** sirve para quitarte una prenda que tengas puesta
+- Menu de lista de animaciones **F4**
 
 ### Movimiento
 - Adelante **W**
@@ -32,14 +33,12 @@ Como usuario ten en cuenta que los binds que veras a continuación se pueden mod
 - Levantar las manos **X**
 - Cancelar cualquier tipo de animacion **X**
 - Tirarse en el suelo **Z**
+- Tumbar jugador **Shift + G**
 
 ### Inventario
 - Abrir inventario **F2**
 - Cerrar inventario **ESC**
 - Ver los 5 primeros items que tienes acomodados en el inventario **TAB**
-
-### Otros Asignamientos
-
 
 ### Uso del telefono
 - Abrir Telefono **M**
@@ -107,7 +106,6 @@ Para interactuar con la mayoría de objetos en GTA NEXUS hay tres formas:
 - **E**
 
 ### Combate
-- Ponerse a cubierto **Q**
 - Recargar **R**
 - Apuntar **Clic Right**
 - Golpear o Disparar **Clic Left**
@@ -142,24 +140,54 @@ Ejemplo:
 
 
 [id 1]/do monedas
+### /entorno
+Este comando envia un llamado automatico a la policia, le puedes añardir informacion sobre los sucedido. Por ejemplo:
+
+
+/entorno se ha visto una persona robar una tienda cerca del casino
 ### /hud
 Este comando sirve para ajustar la interfaz;(Salud, Comida, ID, etc).
 ### /cargar
 Este comando sirve para levantar a un jugador sobre los hombros de tu personajes.
+### /darllave
+Este comando sirve para dar una llave temporal a un jugador.
+### /darllavepermanente
+Este comando sirve para dar una llave permanente a un jugador.
+### /quitarllave
+Quitar llave de tus vehiculos a jugadores.
 ### /id
 Ver tu número de DNI y id de jugador.
 ### /carhud
 Este comando sirve para ajustar la interfaz de la informacion que tu vehiculo muestra en pantalla;(Velocidad, RPM, Gasolina, Cinturon, Estado del motor, Luces).
 ### /kilometraje
 Comprobar el kilometraje de tu vehiculo
-## 3. Bindear un comando a una tecla
+### /e
+Este comando sirve para digitar el nombre nemotécnico de una animación
+### /flashsensitive
+Configurar de manera que cuando te tiren una granada aturdidora salga la pantalla blanco/negro.
+## 3. Bindear y Desbindear un comando a una tecla
+Lo siguiente es un ejemplo de como lo tienes que aplicar.
+### Bindeo de animaciones
+Para bindear una animación a una tecla presionamos el **F8** y digitamos lo siguiente:
 
+
+bind keyboard "numpad7" "cargar"
+### Bindeo de Objetos
+Para bindear objetos usamos en comando **/e** junto al **nombre nemotécnico** del objeto, pero reformulandola para que lo detecte correctamente.
+
+
+bind keyboard "numpad7" "e toolbox"
+### Desbindear comando
+Para desbindear un comando digitamos lo siguiente:
+
+
+unbind keyboard "numpad7"
 <!-- ##
 ##
 ## -->
 
 :::caution Modificaciones en Controles y Comandos
 
-Es importante destacar que la administración se reserva el derecho de modificar los controles y comandos actuales, lo que se informará debidamente y por ende, es exclusiva responsabilidad del usuario mantenerse al tanto de dichas modificaciones.  
+Es responsabilidad del usuario revisar este apartado periodicamente para informarse de los nuevos cambios.
 
 :::
