@@ -4,14 +4,19 @@ sidebar_position: 5
 ---
 
 # Controles y comandos
+:::info
 
+Como usuario ten en cuenta que los binds que veras a continuación se pueden modificar dentro del juego según tu prefieras para asi tener una configuración optima ;)
+
+:::
 <!-- ### Movimiento -->
-## - Controles
+## 1. Controles
 ### General
 - Pausa **ESC**
-- Cambiar entre 1ra y 3ra persona **V**
-- Inventario **F2**
+- Abrir el chat **T**
 - Menú Radial **F1**
+- Abrir interfaz de Trabajos/Jugadores Online **FIN o HOME**
+- Menu de prendas **H** sirve para quitarte una prenda que tengas puesta
 
 ### Movimiento
 - Adelante **W**
@@ -20,20 +25,54 @@ sidebar_position: 5
 - Derecha **D**
 - Saltar **Space**
 - Correr **Mayus o Shift**
+- Cambiar entre 1ra y 3ra persona **V**
 - Subir/bajarse del vehículo **F**
 - Agacharse **Ctrl Left**
 - Mirar atrás **C**
+- Levantar las manos **X**
+- Cancelar cualquier tipo de animacion **X**
+- Tirarse en el suelo **Z**
+
+### Inventario
+- Abrir inventario **F2**
+- Cerrar inventario **ESC**
+- Ver los 5 primeros items que tienes acomodados en el inventario **TAB**
+
+### Otros Asignamientos
+
+
+### Uso del telefono
+- Abrir Telefono **M**
+- Cerrar Telefono **M**
+- Tomar llamada **Enter**
+- Colgar llamada **Retroceso**
+- Alternar cursor para el uso del telefono **Alt**
+
+### Uso del radio
+Para usar la radio y colocar una frecuencia tienes que abrir tu inventario en **F2** y darle clic derecho al item de la radio y darle usar, ahora digitas una frecuencia, por ejemplo 1 y le das **Enter** para confirmar.
+- Hablar en la radio **Alt**
+
+### Menú de Vehículo
+Es un apartado que en resumidas cuentas te permite cambiar de asiento entre otras funciones
+- Abrir menú de vehículo **9**
 
 ### Conducción Autos/Motos/Botes
+- Cinturon **B**
 - Acelerar **W**
 - Frenar **S**
 - izquierda **A**
 - Derecha **D**
 - Subir/bajarse del vehículo **F**
+- Control Cruzero **Y**
+- Ajuste de luces **H**
 - Freno de mano/cruce cerrado en barco o moto acuatica  **Space**
 - Selector de emisora **Q**
+- Claxón **E**
+- Uso del nitro **Shift**
+- Disminuir presión del nitro **Alt**
 
 ### Conducción de Aeronaves
+- Cinturon **B**
 - Acelerar **W**
 - Desacelerar **S**
 - Virar aeronave a la izquierda **A**
@@ -44,33 +83,83 @@ sidebar_position: 5
 - Cabeceo hacia adelante **numpad8**
 - Cabeceo hacia atrás **numpad5**
 - Tren de aterrizaje **G**
+- Control Cruzero **Y**
+- Ajuste de luces **H**
 - Gancho de la aeronave **E**
 - Selector de emisora **Q**
+- Hacer rapel desde el helicoptero**X**
 
-Aunque no dispongas de panel numerico puedes utilizar tu mouse como timon manteniendo presionado **Clic Left**
+Aunque no dispongas de un panel numerico puedes utilizar tu mouse como timón manteniendo presionado **Clic Left**
+
+### Uso de las sirenas Policia/EMS/Bomberos
+Deben tener en cuenta tener las luces encendidas (**Q**) para poder usar las 3 sirenas mensionadas a continuación.
+- Claxón **E**
+- Encender luces **Q**
+- Sirena Stock **R**
+- Sirena 1 **numpad1**
+- Sirena 2 **numpad2**
+- Sirena 3 **numpad3**
 
 ### Interacción
-Para interactuar con la mayoría de objetos de GTA NEXUS hay tres formas:
+Para interactuar con la mayoría de objetos en GTA NEXUS hay tres formas:
 - **Q**
 - **F1**
 - **E**
 
 ### Combate
+- Ponerse a cubierto **Q**
 - Recargar **R**
 - Apuntar **Clic Right**
 - Golpear o Disparar **Clic Left**
 - Esquivar golpe **Space**
 
 
-## - Comandos
+## 2. Comandos
+### /reporte
+Este comando sirve para enviar un reporte a la administración sobre una duda o un inconveniente surgido en partida. 
+### /ooc
+Enviar un mensaje que no tiene fuera de rol. Ejemplo:
+
+
+[id 1] /ooc Como se usa el telefono?
+
+
+[id 2] /ooc con la tecla M
+
+
+[id 1] /ooc gracias
+### /me
+Enviar mensaje me, sirve para interpretar acciones de tu personaje. Ejemplo:
+
+
+[id 1] /me se mete la mano en el bolsillo
+### /do
+Enviar mensaje do, sirve para interpretar el entorno.
+Ejemplo: 
+
+
+[id 2] /do que tendría?
+
+
+[id 1]/do monedas
+### /hud
+Este comando sirve para ajustar la interfaz;(Salud, Comida, ID, etc).
 ### /cargar
 Este comando sirve para levantar a un jugador sobre los hombros de tu personajes.
-### /hud
-Este comando sirve para ajustar la interfaz; por ejemplo (Salud, Comida, ID, etc).
+### /id
+Ver tu número de DNI y id de jugador.
+### /carhud
+Este comando sirve para ajustar la interfaz de la informacion que tu vehiculo muestra en pantalla;(Velocidad, RPM, Gasolina, Cinturon, Estado del motor, Luces).
+### /kilometraje
+Comprobar el kilometraje de tu vehiculo
+## 3. Bindear un comando a una tecla
 
+<!-- ##
+##
+## -->
 
-<!-- :::danger
+:::caution Modificaciones en Controles y Comandos
 
-Some **content** with _Markdown_ `syntax`. Check [this `api`](https://www.facebook.com/).
+Es importante destacar que la administración se reserva el derecho de modificar los controles y comandos actuales, lo que se informará debidamente y por ende, es exclusiva responsabilidad del usuario mantenerse al tanto de dichas modificaciones.  
 
-::: -->
+:::
