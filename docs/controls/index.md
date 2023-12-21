@@ -1,6 +1,6 @@
 ---
 title: Controles y Comandos
-sidebar_position: 5
+sidebar_position: 4
 ---
 
 # Controles y comandos
@@ -86,7 +86,7 @@ Es un apartado que en resumidas cuentas te permite cambiar de asiento entre otra
 - Ajuste de luces **H**
 - Gancho de la aeronave **E**
 - Selector de emisora **Q**
-- Hacer rapel desde el helicoptero**X**
+- Hacer rapel desde el helicoptero **X**
 
 Aunque no dispongas de un panel numerico puedes utilizar tu mouse como timón manteniendo presionado **Clic Left**
 

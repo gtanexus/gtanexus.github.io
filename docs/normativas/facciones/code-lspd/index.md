@@ -1,9 +1,8 @@
 ---
+title: LSPD
 sidebar_position: 1
-id: normativa-lspd
-title: Departamento de Policía del Estado de San Andreas (SAPD)
-sidebar_label: San Andreas Police Department
 ---
+# Los Santos Police Department
 
 ## 1. Finalidad.
 
@@ -93,3 +92,7 @@ sidebar_label: San Andreas Police Department
 - Nivel 4 – alerta roja: un importante ataque se está produciendo y afecta de manera directa a instituciones. Se aumenta la vigilancia y la respuesta de los Equipos, además de movilizar a todo el personal disponible, al grupo SWAT con posibilidad de abrir fuego sin previo aviso. Se podrán registrar a civiles y maleteros siempre. El equipamiento reglamentario será porra, táser, pistola desert eagle, pistola ametralladora y carabina especial.
 
 - Nivel 5 – alerta azul: este nivel se decretará cuando se realice un traslado de dinero hacia un banco o un preso importante hacia prisión federal. Se movilizará al grupo NOOSE y el equipamiento reglamentario será porra, táser, pistola desert eagle, pistola ametralladora, carabina especial o escopeta y francotirador.
+
+:::caution ATENCIÓN
+Esta normativa puede ser modificada, le recomendamos estar semanalmente al tanto de los cambios. ;)
+:::

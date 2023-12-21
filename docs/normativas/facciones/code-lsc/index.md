@@ -1,4 +1,12 @@
-# Delitos Mayores y Sus Penas
+---
+title: LSC
+sidebar_position: 3
+---
+# LOS SANTOS CUSTOMS
+
+
+
+<!-- # Delitos Mayores y Sus Penas
 
 Los delitos mayores conllevan penas más severas, que pueden incluir multas económicas substanciales y detención en prisión federal. A continuación, se detallan algunos de los delitos mayores y las penas asociadas:
 
@@ -73,4 +81,7 @@ Los delitos mayores conllevan penas más severas, que pueden incluir multas econ
 - Pena Económica: $25800 y posible compensación a la víctima.
 - Pena de Detención: 55 minutos en prisión.
 
-Estas penas pueden variar dependiendo de la jurisdicción y las circunstancias específicas de cada caso. Consultar a un abogado es fundamental para comprender mejor las implicaciones legales de estos delitos.
+Estas penas pueden variar dependiendo de la jurisdicción y las circunstancias específicas de cada caso. Consultar a un abogado es fundamental para comprender mejor las implicaciones legales de estos delitos. -->
+
+
+

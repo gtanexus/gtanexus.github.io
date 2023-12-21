@@ -1,11 +1,11 @@
 ---
 sidebar_position: 2
-id: normativa-gangs
-title: Organizaciones Criminales
+id: normativa-gangs  
+title: Organizaciones Criminales 
 sidebar_label: Organizaciones Criminales
 ---
 
-## 1. Cumplimiento de normas
+<!-- ## 1. Cumplimiento de normas
 
 - 1.1. Cumplir todas las normas específicas de GTA NEXUS.
 
@@ -102,4 +102,4 @@ Si te quedas inactivo, se tomarán las siguientes medidas según el tiempo:
 - 1 semana de inactividad: Se te dará un aviso.
 - 2 semanas de inactividad: Se te dará de baja en el taller, a menos que justifiques previamente tu ausencia.
 
-Si tienes una buena razón para estar inactivo, debes comunicarlo a un superior para evitar ser expulsado. Recuerda que este es un trabajo y, como en la vida real, si no te presentas a trabajar, serás despedido.
+Si tienes una buena razón para estar inactivo, debes comunicarlo a un superior para evitar ser expulsado. Recuerda que este es un trabajo y, como en la vida real, si no te presentas a trabajar, serás despedido. -->
