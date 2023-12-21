@@ -14,6 +14,7 @@ GTA NEXUS cuenta con varias normativas que deben ser respetadas por todos los us
 
 - [Normativas Generales](./normativas/index.md)
 - [Normativas Facciones](./normativas/facciones/index.md)
+- [Normativas Organizaciones Criminales](./normativas/gangs/)
 <!-- - [Normativas de Organizaciones Criminales](./normativas/ooc/gangs/index.md) -->
 <!-- - [Normativas de Empresas](./donaciones) -->
 <!-- - [Normativas de Trabajos](./donaciones) -->

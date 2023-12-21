@@ -5,6 +5,16 @@ title: Organizaciones Criminales
 sidebar_label: Organizaciones Criminales
 ---
 
+En las siguientes opciones te puedes informar:
+
+- [Bandas](./bandas/)
+- [Carteles](./carteles/)
+- [Mafias](./mafias/)
+
+<!-- :::caution MODIFICACIONES EN ESTE APARTADO
+Muy pronto estará disponible para su visualización ;)
+::: -->
+
 <!-- ## 1. Cumplimiento de normas
 
 - 1.1. Cumplir todas las normas específicas de GTA NEXUS.

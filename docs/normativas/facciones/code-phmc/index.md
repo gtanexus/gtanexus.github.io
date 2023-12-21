@@ -4,7 +4,9 @@ sidebar_position: 2
 ---
 # PILLBOX HILL MEDICAL CENTER
 
-
+:::caution MODIFICACIONES EN NORMATIVA DE PILLBOX HILL MEDICAL CENTER
+Muy pronto estará disponible para su visualización ;)
+:::
 
 <!-- # Delitos Mayores y Sus Penas
 

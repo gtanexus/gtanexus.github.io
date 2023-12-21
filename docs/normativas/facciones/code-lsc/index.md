@@ -4,7 +4,9 @@ sidebar_position: 3
 ---
 # LOS SANTOS CUSTOMS
 
-
+:::caution MODIFICACIONES EN NORMATIVA DE LOS SANTOS CUSTOMS
+Muy pronto estará disponible para su visualización ;)
+:::
 
 <!-- # Delitos Mayores y Sus Penas
 
