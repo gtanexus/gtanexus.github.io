@@ -11,6 +11,14 @@ sidebar_position: 2
 
 - 1.1. Consta de actuar in-game de acuerdo a la personalidad, actitudes, cualidades y objetivos que se le otorgan al personaje que decides interpretar y es lo primordial en todas las situaciones que ocurran mientras te encuentres en el servidor. 	 
 
+### 2. In Character (IC)
+
+- 2.1. Es un termino que has oido anteriormente que significa todo aquel suceso que se presenta dentro del rol y tu personaje.
+
+### 3. Out Of Character (OOC)
+
+- 3.1. Es un termino que has ido con anterioridad que significa todo aquel suceso ajeno al rol y tu personaje.
+
 ### 2. Fairplay 
 
 - 2.1. Es el equilibrio entre la búsqueda de tus objetivos propios y la de los otros jugadores. En todo momento debe primar el espíritu de diversión para todos los involucrados en los roles que se desarrollen, por sobre un interés y deseo egoísta de ganar a toda costa. 
@@ -87,6 +95,10 @@ sidebar_position: 2
 
 - 17.1. No existen zonas seguras en el servidor, más allá de aquellos lugares del mapa que son seguros por RDE de seguridad, como comisarías, hospitales y bases militares. 
 
+### 18. Reportar en medio de un rol
+
+- 18.1. Nunca se debe detener un rol, y reportar en el proceso. Lo correcto es terminar el rol y abrir un ticket en Discord, comentar lo sucedido, será obligatorio presentar pruebar gráficas.
+
 ### 18. Actos sexuales y violaciones 
 
 - 18.1. Los actos sexuales están permitidos si existe mutuo acuerdo entre ambas personas. Sin embargo, las VIOLACIONES y ABUSOS están COMPLETAMENTE PROHIBIDAS aun habiendo consentimiento por ambas partes de manera OOC. 
@@ -106,6 +118,15 @@ sidebar_position: 2
 ### 21. Uso de máscaras 
 
 - 21.1. Cuando se usa una máscara (parcial o total), no se podrá reconocer la identidad de la persona. No obstante, según el tipo de máscara hay ciertos detalles como el color del cabello  o de los ojos que pueden ser perceptibles y por ende, podría levantar sospechas o incluso revelar la identidad del personaje. 
+
+### 21. Ropa de facciones 
+
+- 22.1. Está totalmente prohibido usar ropa de faccion sin pertenecer a ellas.
+
+
+<!-- ### 22. Reaparición en hospital
+
+- . Queda prohibido pulsar la E para reaparecer en el hospital mientras el rol siga en curso. -->
 
 ### 22. Traspaso de dinero 
 
@@ -170,3 +191,20 @@ sidebar_position: 2
 Es importante destacar que la administración se reserva el derecho de modificar la normativa actual, lo que se informará debidamente y por ende, es exclusiva responsabilidad del usuario mantenerse al tanto de dichas modificaciones.  
 
 :::
+
+
+<!-- 
+2.	CK de banda o mafia a policías: se podrá realizar a un policía siempre que haya un motivo de peso y una investigación detrás, que deba ser aprobado previamente por la Administración a través de ticket. Como excepción, se le podrá realizar a los policías con rango “Prácticas” hasta “Inspector” inclusive, salvo rol pactado con rangos superiores.
+
+3.	CK de banda o mafia a civiles: aquel civil que ponga en riesgo o perjudique claramente la actividad ilegal y negocio de una banda o mafia, ya sea traficando con drogas, armas o dinero ilegal, estará expuesto a este procedimiento, que deberá ser previamente aprobado por la Administración a través de ticket.
+
+4.	CK entre bandas o mafias: se podrá realizar un CK entre miembros o a organizaciones completas que estén perjudicando claramente la actividad ilegal de la otra. Para ello es preciso una investigación previa aportando pruebas gráficas, DNI, pruebas de pertenencia a una banda o mafia, etc. Asimismo, si se le realiza al jefe:
+
+∞	La organización o banda quedará en manos del subjefe, a menos que si también se le realiza a éste, entonces quedará desmantelada.
+∞	En caso de desmantelamiento, los miembros que queden vivos sufrirán un PKT.
+∞	La banda o mafia que haya desmantelado a otra se quedará con un 20% de su dinero y de su arsenal armamentístico.
+∞	Tiene que ser solicitado a través de ticket.
+
+5.	CK voluntario: debe haber un motivo de peso y sólo se permitirá uno al mes. Tiene que ser solicitado a la Administración a través de ticket.
+6.	CK o PKT administrativo: la Administración se reserva el derecho a realizar un CK o PKT a aquel usuario que incumpla un punto importante de la normativa. -->
+
