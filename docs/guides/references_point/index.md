@@ -13,7 +13,7 @@ Lo siguiente que observaras son los principales puntos de referencia en toda la 
 - Police Station
 <!-- ![EMS]() -->
 - Hospital
-<!-- ![Gas_petrol]() -->
+<!-- ![Gas_petrol]() --> 
 - Gasolineras
 <!-- ![Shops]() -->
 - Tiendas
