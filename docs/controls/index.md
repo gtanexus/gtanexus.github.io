@@ -88,7 +88,7 @@ Es un apartado que en resumidas cuentas te permite cambiar de asiento entre otra
 - Selector de emisora **Q**
 - Hacer rapel desde el helicoptero **X**
 
-Aunque no dispongas de un panel numerico puedes utilizar tu mouse como timón manteniendo presionado **Clic Left**
+Aunque no dispongas de un panel numerico puedes utilizar tu mouse como timón manteniendo presionado **Clic Left**.
 
 ### Uso de las sirenas Policia/EMS/Bomberos
 Deben tener en cuenta tener las luces encendidas (**Q**) para poder usar las 3 sirenas mensionadas a continuación.
@@ -160,9 +160,9 @@ Ver tu número de DNI y id de jugador.
 ### /carhud
 Este comando sirve para ajustar la interfaz de la informacion que tu vehiculo muestra en pantalla;(Velocidad, RPM, Gasolina, Cinturon, Estado del motor, Luces).
 ### /kilometraje
-Comprobar el kilometraje de tu vehiculo
+Comprobar el kilometraje de tu vehiculo.
 ### /e
-Este comando sirve para digitar el nombre nemotécnico de una animación
+Este comando sirve para digitar el nombre nemotécnico de una animación.
 ### /flashsensitive
 Configurar de manera que cuando te tiren una granada aturdidora salga la pantalla blanco/negro.
 ## 3. Bindear y Desbindear un comando a una tecla
