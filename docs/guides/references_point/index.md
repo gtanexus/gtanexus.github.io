@@ -44,6 +44,6 @@ Crafting -->
 
 
 
-:::caution MODIFICACIONES EN PUNTOS DE REFERENCIA
+<!-- :::caution MODIFICACIONES EN PUNTOS DE REFERENCIA
 Muy pronto estará disponible el material visual ;)
-:::
+::: -->
