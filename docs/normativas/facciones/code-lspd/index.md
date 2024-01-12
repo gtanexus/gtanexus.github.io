@@ -95,8 +95,6 @@ sidebar_position: 1
 
 ### Codigo Penal
 
-[Codigo Penal](./static/codigo_penal.pdf)
-
 :::caution ATENCIÓN
 Esta normativa puede ser modificada, le recomendamos estar semanalmente al tanto de los cambios. ;)
 :::
