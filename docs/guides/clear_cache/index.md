@@ -13,7 +13,6 @@ Suele suceder que cuando entramos al servidor, no nos deje entrar. Normalmente, 
 
  -->
 
-### Borrar Caché
 **Win** + **R** para abrir la ventana ejecutar
 
 Digitas **appdata**

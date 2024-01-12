@@ -29,6 +29,8 @@ Como usuario ten en cuenta que los binds que veras a continuación se pueden mod
 - Cambiar entre 1ra y 3ra persona **V**
 - Subir/bajarse del vehículo **F**
 - Agacharse **Ctrl Left**
+- Acostarse en el suelo **Ctrl Right**
+- Girarse al estar acostado en el suelo **Space**
 - Mirar atrás **C**
 - Levantar las manos **X**
 - Cancelar cualquier tipo de animacion **X**
