@@ -97,10 +97,6 @@ sidebar_position: 1
 
 [Codigo Penal](./static/codigo_penal.pdf)
 
-<!-- <a target="\_blank" href={require('./static/codigo_penal.pdf').default}> Download this docx </a> -->
-
-<!-- ./static/codigo_penal.pdf -->
-
 :::caution ATENCIÓN
 Esta normativa puede ser modificada, le recomendamos estar semanalmente al tanto de los cambios. ;)
 :::
