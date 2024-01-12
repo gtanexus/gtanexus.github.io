@@ -93,6 +93,14 @@ sidebar_position: 1
 
 - Nivel 5 – alerta azul: este nivel se decretará cuando se realice un traslado de dinero hacia un banco o un preso importante hacia prisión federal. Se movilizará al grupo NOOSE y el equipamiento reglamentario será porra, táser, pistola desert eagle, pistola ametralladora, carabina especial o escopeta y francotirador.
 
+### Codigo Penal
+
+[Codigo Penal](./static/codigo_penal.pdf)
+
+<!-- <a target="\_blank" href={require('./static/codigo_penal.pdf').default}> Download this docx </a> -->
+
+<!-- ./static/codigo_penal.pdf -->
+
 :::caution ATENCIÓN
 Esta normativa puede ser modificada, le recomendamos estar semanalmente al tanto de los cambios. ;)
 :::
