@@ -98,6 +98,18 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
+      },
+      algolia: {
+        contextualSearch: true,
+        appId: 'ARZE3XSATT',
+        apiKey: '3be0cb1b1a3a373a74bd61c32148da2b',
+        indexName: 'gtanexus',
+        placeholder: '¿Qué deseas saber?',
+      },
     }),
 };
 
