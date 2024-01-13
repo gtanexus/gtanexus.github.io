@@ -59,6 +59,11 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.png',
+      docs: {
+        sidebar: {
+          autoCollapseCategories: true,
+        },
+      },
       navbar: {
         title: 'GTA NEXUS',
         logo: {
