@@ -4,8 +4,36 @@ sidebar_position: 4
 ---
 # DOWNTOWN CAB CO.
 
-:::caution MODIFICACIONES EN NORMATIVA DE DOWNTOWN CAB CO.
+<!-- :::caution MODIFICACIONES EN NORMATIVA DE DOWNTOWN CAB CO.
 Muy pronto estará disponible para su visualización ;)
+::: -->
+
+### 1. Cumplimiento de la Normativa
+- Todos los miembros de la facción deben conocer la normativa general del servidor y deben tenerla en consideración al momento de desenvolverse tanto dentro como fuera de servicio.
+
+### 2. Requisitos para entrar a LSC
+- 2.1. Edad mínima OOC de 17 años.
+- 2.2. Prueba oral a través de entrevista.
+- 2.3. Se recomienda tener un conocimiento avanzado del rol de taxista, pero no es impedimento para que puedas entrar a esta.
+
+Lo siguiente son requisitos "**opcionales** que se definirá a criterio del **jefe de DCC**":
+- 2.4. DNI
+- 2.5. Licencia de conducción
+- 2.6. Carnet de trabajo
+- 2.7. Carnet médico
+
+### 3. Manejo responsable del vehiculo
+- 3.1. Es obligatorio dejar el taxi en el garaje del DOWNTOWN CAB CO, sin excepciones.
+- 3.2. Los gastos de reparación del taxi corren por el conductor.
+
+### 4. Uniforme de trabajo
+- 4.1. Es obligatorio el uso del uniforme de trabajo.
+
+### 5. Conducta Profesional y Atención a Clientes
+- 5.1. Los miembros deben mantener una conducta profesional y servicial hacia los clientes.
+
+:::caution MODIFICACIONES EN NORMATIVA DE DCC
+Esta normativa puede ser modificada, le recomendamos estar semanalmente al tanto de los cambios.
 :::
 
 <!-- # Delitos Mayores y Sus Penas

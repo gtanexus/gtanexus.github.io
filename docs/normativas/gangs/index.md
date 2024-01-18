@@ -2,13 +2,16 @@
 sidebar_position: 2
 id: normativa-gangs  
 title: Organizaciones Criminales 
-sidebar_label: Organizaciones Criminales
+sidebar_label: Crimen
 ---
 
+:::info Ten en cuenta
+Los actos ilegales que se cometan son penados por la LSPD.
+:::
 En las siguientes opciones te puedes informar:
 
+
 - [Bandas](./bandas/)
-- [Carteles](./carteles/)
 - [Mafias](./mafias/)
 
 <!-- :::caution MODIFICACIONES EN ESTE APARTADO
