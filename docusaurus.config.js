@@ -72,6 +72,11 @@ const config = {
         },
         items: [
           {
+            href: 'https://cfx.re/join/ogoldv',
+            label: 'Jugar',
+            position: 'right',
+          },
+          {
             href: 'https://discord.gg/gfTNHreCug',
             label: 'Discord',
             position: 'right',
