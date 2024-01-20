@@ -82,11 +82,6 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://cfx.re/join/ogoldv',
-            label: 'FiveM',
-            position: 'right',
-          },
-          {
             href: 'https://www.gtanexus.gg',
             label: 'Tienda',
             position: 'right',
