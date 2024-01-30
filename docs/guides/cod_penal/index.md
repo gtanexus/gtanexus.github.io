@@ -3,7 +3,7 @@ title: Codigo Penal
 sidebar_position: 5
 ---
 :::caution MODIFICACIONES EN CODIGO PENAL
-Muy pronto estará disponible para su visualización ;)
+Muy pronto estará disponible para su visualización
 :::
 <!--
 # Código Penal Federal Del Estado De San Andreas

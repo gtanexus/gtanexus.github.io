@@ -6,7 +6,7 @@ sidebar_position: 1
 ---
 
 <!-- :::caution MODIFICACIONES EN ESTE APARTADO
-Muy pronto estará disponible para su visualización ;)
+Muy pronto estará disponible para su visualización
 ::: -->
 
 Para una explicación general, las **bandas** son **organizaciones publicas** donde **no existe un jefe** en común por lo que cualquiera puede pertenecer a ella y por ejemplo formar su pequeña gang dentro de la misma banda.
@@ -21,7 +21,7 @@ Para una explicación general, las **bandas** son **organizaciones publicas** do
 
 ### 3. Reclutamiento en las mini gangs
 
-Dado el caso que la persona desee crear un pequeño grupo dentro de la misma banda lee lo siguiente: ;)
+Dado el caso que la persona desee crear un pequeño grupo dentro de la misma banda lee lo siguiente:
 
 - 3.1. El reclutamiento a la bandas queda totalmente a criterio del organizador del pequeño grupo de la banda.
 

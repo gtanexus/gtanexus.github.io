@@ -48,7 +48,7 @@ No es solo la destreza de este tipo de vehículo, sino saber manejar la comunica
 
 <!-- ![preview_woodcutterjob](https://cdn.discordapp.com/attachments/1187993860329189436/1191582414825340979/image.png?ex=65a5f69a&is=6593819a&hm=465cb80d6d15fde8ec1b0dfc5205f7f08c4623e467243d9b461e56a3083ae7ba&) -->
 
-Tala madera para venderlo a tu beneficio. ;)
+Tala madera para venderlo a tu beneficio.
 
 ## Centro De Reciclaje
 
@@ -60,12 +60,12 @@ Un cargo donde tendrás que ser rapido en guíar correctamente los objetivos seg
 
 <!-- ![preview_divejob](https://cdn.discordapp.com/attachments/1187993860329189436/1191582414825340979/image.png?ex=65a5f69a&is=6593819a&hm=465cb80d6d15fde8ec1b0dfc5205f7f08c4623e467243d9b461e56a3083ae7ba&) -->
 
-Un cargo no apto para todos, donde colocas en juego tu vida en el fondo marino en busqueda de cositas ;)  
+Un cargo no apto para todos, donde colocas en juego tu vida en el fondo marino en busqueda de cositas  
 
-:::info TEN EN CUENTA ;)
+:::info TEN EN CUENTA
 Conversar con los NPC's encargados de los diferentes trabajos repartidos por la ciudad, con ellos solicitas trabajo según el campo, solicitar/entregar el vehiculo que te otorgan para cumplir con tu labor y salir de tu jornada laboral.
 :::
 
 <!-- :::caution MODIFICACIONES EN TRABAJOS
-Muy pronto estará disponible para su visualización ;)
+Muy pronto estará disponible para su visualización
 ::: -->

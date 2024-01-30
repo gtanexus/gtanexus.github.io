@@ -15,7 +15,7 @@ En las siguientes opciones te puedes informar:
 - [Mafias](./mafias/)
 
 <!-- :::caution MODIFICACIONES EN ESTE APARTADO
-Muy pronto estará disponible para su visualización ;)
+Muy pronto estará disponible para su visualización
 ::: -->
 
 <!-- ## 1. Cumplimiento de normas

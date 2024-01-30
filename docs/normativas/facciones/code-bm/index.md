@@ -5,7 +5,7 @@ sidebar_position: 5
 # BAHAMA MAMA'S 
 
 <!-- :::caution MODIFICACIONES EN NORMATIVA DE BAHAMA MAMA'S 
-Muy pronto estará disponible para su visualización ;)
+Muy pronto estará disponible para su visualización
 ::: -->
 
 ### 1. Cumplimiento de la Normativa

@@ -65,5 +65,5 @@ Recuerda que
 <!-- <img src="" alt="" style=""> -->
 
 <!-- :::caution MODIFICACIONES EN CREACIÓN DE PERSONAJE
-Muy pronto estará disponible para su visualización ;)
+Muy pronto estará disponible para su visualización
 ::: -->

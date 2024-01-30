@@ -6,7 +6,7 @@ sidebar_position: 4
 # Controles y comandos
 :::info
 
-Como usuario ten en cuenta que los binds que veras a continuación se pueden modificar dentro del juego según tu prefieras para asi tener una configuración optima ;)
+Como usuario ten en cuenta que los binds que veras a continuación se pueden modificar dentro del juego según tu prefieras para asi tener una configuración optima
 
 :::
 ## 1. Controles

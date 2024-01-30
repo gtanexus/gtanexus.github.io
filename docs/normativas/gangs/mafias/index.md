@@ -6,7 +6,7 @@ sidebar_position: 2
 ---
 
 <!-- :::caution MODIFICACIONES EN ESTE APARTADO
-Muy pronto estará disponible para su visualización ;)
+Muy pronto estará disponible para su visualización
 :::  -->
 
 Para una explicación general, las **mafias** son **organizaciones privadas** donde **si existe un jefe** en común por lo que no cualquiera puede pertenecer a ella.

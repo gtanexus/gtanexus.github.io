@@ -5,7 +5,7 @@ sidebar_position: 4
 # DOWNTOWN CAB CO.
 
 <!-- :::caution MODIFICACIONES EN NORMATIVA DE DOWNTOWN CAB CO.
-Muy pronto estará disponible para su visualización ;)
+Muy pronto estará disponible para su visualización
 ::: -->
 
 ### 1. Cumplimiento de la Normativa
