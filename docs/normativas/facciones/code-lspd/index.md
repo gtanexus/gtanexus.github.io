@@ -108,4 +108,3 @@ Lo siguiente son requisitos "**opcionales** que se definirá a criterio del **je
 Esta normativa puede ser modificada, le recomendamos estar semanalmente al tanto de los cambios.
 :::
 
-### Codigo Penal
