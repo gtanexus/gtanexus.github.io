@@ -509,4 +509,4 @@ El presente Código podrá ser reformado en cualquier momento y cualquier modifi
 Oficial del Estado» y se aplicará a todos los hechos punibles que se cometan a partir de su vigencia.
 :::caution MODIFICACIONES EN CODIGO PENAL
 El presente Código podrá ser reformado en cualquier momento y te recomendamos estar al tanto de cualquier modificación y se aplicará a todos los hechos punibles que se cometan a partir de su vigencia.
-:::
+::: 
