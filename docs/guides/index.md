@@ -10,4 +10,3 @@ En las siguientes opciones te puedes guiar:
 - [Trabajos](./jobs/index.md)
 - [Puntos de Referencia](./references_point/index.md)
 - [Borrar Caché](./clear_cache/index.md)
-- [Codigo Penal](./cod_penal/index.md)
