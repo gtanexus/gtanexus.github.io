@@ -1,5 +1,4 @@
 ---
-slug: /
 title: Alex
 sidebar_position: 8
 ---
