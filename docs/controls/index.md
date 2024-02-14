@@ -16,7 +16,7 @@ Como usuario ten en cuenta que los binds que veras a continuación se pueden mod
 - Menú Radial **F1**
 - Abrir interfaz de Trabajos/Jugadores Online **FIN o HOME**
 - Menu de prendas **H** sirve para quitarte una prenda que tengas puesta
-- Menu de lista de animaciones **F4**
+- Alex
 
 ### Movimiento
 - Adelante **W**
