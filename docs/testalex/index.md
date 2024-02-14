@@ -1,6 +1,7 @@
 ---
 slug: /
 title: Alex
+sidebar_position: 8
 ---
 
 ## Normativas
