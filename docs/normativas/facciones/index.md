@@ -12,4 +12,3 @@ Para unirte a una facción, los jefes te dirán lo necesario para pertenecer a c
 - [Pillbox Hill Medical Center](./code-phmc/index.md)
 - [Los Santos Customs](./code-lsc/index.md)
 - [Downtown Cab Co.](./code-dcc/index.md)
-- [Bahama mama's](./code-bm/index.md)
