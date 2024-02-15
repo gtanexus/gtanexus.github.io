@@ -4,6 +4,10 @@ sidebar_position: 2
 ---
 # PILLBOX HILL MEDICAL CENTER
 
+<p align="center">
+  <img src="https://i.imgur.com/kxZxXId.png">
+</p>
+
 <!-- :::caution MODIFICACIONES EN NORMATIVA DE PILLBOX HILL MEDICAL CENTER
 Muy pronto estará disponible para su visualización
 ::: -->
@@ -35,13 +39,14 @@ Lo siguiente son requisitos "**opcionales** que se definirá a criterio del **je
 
 **La Facción Médica tendrá diferentes roles, cada uno con sus responsabilidades específicas:**
 
-- **Especialistas**: Responsables de la atención médica general y especializada, diagnóstico, tratamiento de pacientes, mantener registros dichas atenciones. 
-
-- **Médicos**: Responsables de la atención médica general, diagnóstico, tratamiento de pacientes y mantener registros dichas atenciones. 
-
-- **Paramédicos**: Proporcionan atención médica de emergencia en el campo y durante situaciones críticas. 
-
-- **Reclutas**: Asisten a los paramédicos en las atenciones médicas de emergencia. 
+- **Director**: Lidera y gestiona la visión y operaciones del hospital, asegurando el cumplimiento de estándares y regulaciones.
+- **Subdirector/a**: Apoya al director en la gestión global y puede liderar áreas específicas en ausencia del director.
+- **Supervisor/a**: Coordina y supervisa las actividades de un área, asegurando la eficiencia y calidad en la prestación de servicios.
+- **Jefe de Departamento**: Dirige un departamento clínico o administrativo, supervisando personal y garantizando el cumplimiento de objetivos.
+- **Médico Especialista**: Proporciona atención médica especializada y lidera el diagnóstico y tratamiento de pacientes en su área de especialización.
+- **Médico Residente**: Realiza rotaciones clínicas para obtener experiencia en diversas especialidades bajo supervisión mientras completa su formación médica.
+- **Enfermero/a**: Proporciona cuidados directos a los pacientes, administra medicamentos y colabora en la planificación y evaluación de la atención.
+- **Auxiliar**: Apoya al personal médico y de enfermería en tareas de cuidado básico, higiene y movilización de pacientes.
 
 :::note Nota
 No obstante lo antes mencionado, los médicos y especialistas también están facultados para proporcionar atención médica de emergencia en el campo.
@@ -73,7 +78,7 @@ No obstante lo antes mencionado, los médicos y especialistas también están fa
 
 - 6.3. Es obligatorio el uso de las frecuencias radiales establecidas para la facción, mientras los funcionarios se encuentren en servicio. 
 
-- 6.4. La comunicación OOC es permitida única y exclusivamente para pactar roles que incluyan un seguimiento médico prolongado en el tiempo. Esta debe hacerse de manera respetuosa y debe dejarse constancia en el registro médico del paciente que se llevará adecuadamente en discord. 
+- 6.4. La comunicación OOC es permitida única y exclusivamente para pactar roles que incluyan un seguimiento médico prolongado en el tiempo. Esta debe hacerse de manera respetuosa y debe dejarse constancia en el registro médico del paciente que se llevará adecuadamente en Discord. 
 
 ### 7. Unifomes y equipos médicos 
 
