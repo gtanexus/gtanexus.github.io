@@ -4,6 +4,10 @@ sidebar_position: 3
 ---
 # LOS SANTOS CUSTOMS
 
+<div style={{textAlign: 'center'}}>
+  <img src="https://i.imgur.com/kNZPjSa.png" />
+</div>
+
 ### 1. Cumplimiento de la Normativa
 - Todos los miembros de la facción deben conocer la normativa general del servidor y deben tenerla en consideración al momento de desenvolverse tanto dentro como fuera de servicio.
 

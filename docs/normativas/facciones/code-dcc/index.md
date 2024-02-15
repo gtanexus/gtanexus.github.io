@@ -4,6 +4,10 @@ sidebar_position: 4
 ---
 # DOWNTOWN CAB CO.
 
+<div style={{textAlign: 'center'}}>
+  <img src="https://i.imgur.com/738YibO.png" />
+</div>
+
 <!-- :::caution MODIFICACIONES EN NORMATIVA DE DOWNTOWN CAB CO.
 Muy pronto estará disponible para su visualización
 ::: -->

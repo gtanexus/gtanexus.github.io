@@ -3,6 +3,11 @@ title: LSPD
 sidebar_position: 1
 ---
 # Los Santos Police Department
+
+<div style={{textAlign: 'center'}}>
+  <img src="https://i.imgur.com/SiMlkUE.png" />
+</div>
+
 ### 1. Cumplimento de la normativa
 - 1.1. Todos los miembros de la facción deben conocer la normativa general del servidor y deben tenerla en consideración al momento de desenvolverse tanto dentro como fuera de servicio.
 
@@ -12,7 +17,7 @@ sidebar_position: 1
 
 ### 3. Acceso al Cuerpo LSPD
 
-<!-- - 3.1. Para poder acceder al SAPD se deberán cumplir los siguientes requisitos: -->
+<!-- - 3.1. Para poder acceder al LSPD se deberán cumplir los siguientes requisitos: -->
 - 3.1.1. Edad mínima OOC de 17 años.
 - 3.1.2. Prueba oral a través de entrevista. Cualquier examen con sospechas o pruebas de copia será dado por finalizado al momento con la imposibilidad de volver a presentarse.
 - 3.1.3. Periodo de prueba en el Cuerpo como Policía alumno.
@@ -32,7 +37,7 @@ Lo siguiente son requisitos "**opcionales** que se definirá a criterio del **je
 
 ### 5. Integridad
 
-- 5.1. Cualquier miembro del SAPD tiene totalmente prohibido realizar cualquier acto que atente contra la legalidad, fuera o dentro de servicio. El incumplimiento de este artículo conllevará a ser juzgado en base a la ley y con la consiguiente expulsión del Cuerpo.
+- 5.1. Cualquier miembro del LSPD tiene totalmente prohibido realizar cualquier acto que atente contra la legalidad, fuera o dentro de servicio. El incumplimiento de este artículo conllevará a ser juzgado en base a la ley y con la consiguiente expulsión del Cuerpo.
 
 ### 6. Disciplina
 
@@ -40,17 +45,17 @@ Lo siguiente son requisitos "**opcionales** que se definirá a criterio del **je
 
 ### 7. Valor
 
-- 7.1. Cualquier miembro del SAPD está obligado a velar por la seguridad e integridad de todos los ciudadanos, incluso si esto implica poner en riesgo la de uno mismo.
+- 7.1. Cualquier miembro del LSPD está obligado a velar por la seguridad e integridad de todos los ciudadanos, incluso si esto implica poner en riesgo la de uno mismo.
 
 ### 8. Secreto de profesión
 
-- 8.1. Cualquier miembro del SAPD deberá guardar secreto ante cualquier información sobre operativos, misiones, investigaciones o datos. El incumplimiento de este artículo conllevará a la apertura de un expediente con la posterior bajada de rango, o en su defecto, la expulsión del Cuerpo.
+- 8.1. Cualquier miembro del LSPD deberá guardar secreto ante cualquier información sobre operativos, misiones, investigaciones o datos. El incumplimiento de este artículo conllevará a la apertura de un expediente con la posterior bajada de rango, o en su defecto, la expulsión del Cuerpo.
 
 ### 9. Vocación
 
-- 9.1. Cualquier miembro del SAPD tendrá la obligación de actuar ante un delito, aun encontrándose fuera de servicio. Dicho miembro no podrá portar equipamiento policial, salvo su arma reglamentaria, la cual en caso de robo o pérdida deberá comunicar a la Jefatura para su conocimiento y actuación.
+- 9.1. Cualquier miembro del LSPD tendrá la obligación de actuar ante un delito, aun encontrándose fuera de servicio. Dicho miembro no podrá portar equipamiento policial, salvo su arma reglamentaria, la cual en caso de robo o pérdida deberá comunicar a la Jefatura para su conocimiento y actuación.
 
-### 10. Estructura del SAPD
+### 10. Estructura del LSPD
 
 - 10.1. El Departamento de Policía de San Andreas se divide en diferentes organismos y agencias, algunas de ellas incluidas dentro de los principales cuerpos policiales.
 
@@ -66,17 +71,17 @@ Lo siguiente son requisitos "**opcionales** que se definirá a criterio del **je
 
 ### 11. Uniformidad
 
-- 11.1. El SAPD lo conforman cuerpos uniformados. Sus miembros actuarán de uniforme o sin él en función del servicio que desempeñen, y observarán las normas de uniformidad previstas en esta orden.
+- 11.1. El LSPD lo conforman cuerpos uniformados. Sus miembros actuarán de uniforme o sin él en función del servicio que desempeñen, y observarán las normas de uniformidad previstas en esta orden.
 
 - 11.2. Los superiores jerárquicos velarán por que los subordinados cumplan con la obligación de vestir debidamente el uniforme policial, tomando las medidas correctoras o disciplinarias que procedan, en caso de incumplimiento de las normas de uniformidad, incurriendo en la misma responsabilidad que los autores de la infracción aquellos que, en su caso, las toleren o no procedan a corregirlas.
 
-- 11.3. El uso del uniforme por los funcionarios del SAPD acreditará su condición de agentes de la autoridad, sin perjuicio de la obligación que tienen de exhibir el carné profesional cuando sean requeridos por los ciudadanos para identificarse con motivo de sus actuaciones policiales.
+- 11.3. El uso del uniforme por los funcionarios del LSPD acreditará su condición de agentes de la autoridad, sin perjuicio de la obligación que tienen de exhibir el carné profesional cuando sean requeridos por los ciudadanos para identificarse con motivo de sus actuaciones policiales.
 
-- 11.4. El uniforme de los funcionarios del SAPD será de utilización por los integrantes del mismo mientras se encontraren de servicio.
+- 11.4. El uniforme de los funcionarios del LSPD será de utilización por los integrantes del mismo mientras se encontraren de servicio.
 
-- 11.5. Queda prohibido el uso del uniforme de cualquier cuerpo del SAPD, así como el de otros similares que por sus características puedan inducir a error o confusión, por personas, colectivos o cuerpos diferentes.
+- 11.5. Queda prohibido el uso del uniforme de cualquier cuerpo del LSPD, así como el de otros similares que por sus características puedan inducir a error o confusión, por personas, colectivos o cuerpos diferentes.
 
-- 11.6. Los miembros del SAPD vienen obligados a vestir el tipo y modalidad de uniforme en los términos previstos en esta orden, quedando prohibidos la combinación de prendas de uno u otro que no esté autorizada expresamente.
+- 11.6. Los miembros del LSPD vienen obligados a vestir el tipo y modalidad de uniforme en los términos previstos en esta orden, quedando prohibidos la combinación de prendas de uno u otro que no esté autorizada expresamente.
 
 ### 12. Identificación
 
