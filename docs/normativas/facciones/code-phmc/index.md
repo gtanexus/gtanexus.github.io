@@ -4,9 +4,9 @@ sidebar_position: 2
 ---
 # PILLBOX HILL MEDICAL CENTER
 
-<p align="center">
-  <img src="https://i.imgur.com/kxZxXId.png">
-</p>
+<div style={{textAlign: 'center'}}>
+  <img src="https://i.imgur.com/kxZxXId.png" />
+</div>
 
 <!-- :::caution MODIFICACIONES EN NORMATIVA DE PILLBOX HILL MEDICAL CENTER
 Muy pronto estará disponible para su visualización
