@@ -5,6 +5,10 @@ sidebar_label: Bandas
 sidebar_position: 1
 ---
 
+<div style={{textAlign: 'center'}}>
+  <img src="https://i.imgur.com/R6JUZok.png" />
+</div>
+
 <!-- :::caution MODIFICACIONES EN ESTE APARTADO
 Muy pronto estará disponible para su visualización
 ::: -->
