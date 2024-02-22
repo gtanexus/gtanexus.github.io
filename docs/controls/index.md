@@ -4,7 +4,7 @@ sidebar_position: 4
 ---
 
 <div style={{textAlign: 'center'}}>
-  <img src="https://i.imgur.com/7YEG9Ac.jpeg" />
+  <img src="https://i.imgur.com/aN63Ndx.png" />
 </div>
 
 # Controles y comandos
