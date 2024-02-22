@@ -3,11 +3,12 @@ title: Controles y Comandos
 sidebar_position: 4
 ---
 
+# Controles y comandos
+
 <div style={{textAlign: 'center'}}>
   <img src="https://i.imgur.com/aN63Ndx.png" />
 </div>
 
-# Controles y comandos
 :::info
 
 Como usuario ten en cuenta que los binds que veras a continuación se pueden modificar dentro del juego según tu prefieras para asi tener una configuración optima
