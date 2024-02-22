@@ -3,6 +3,10 @@ title: Controles y Comandos
 sidebar_position: 4
 ---
 
+<div style={{textAlign: 'center'}}>
+  <img src="https://i.imgur.com/7YEG9Ac.jpeg" />
+</div>
+
 # Controles y comandos
 :::info
 
@@ -24,7 +28,7 @@ Como usuario ten en cuenta que los binds que veras a continuación se pueden mod
 - Izquierda **A**
 - Derecha **D**
 - Saltar **Space**
-- Correr **Mayus o Shift**
+- Correr **Shift Izquierdo**
 - Cambiar entre 1ra y 3ra persona **V**
 - Subir/bajarse del vehículo **F**
 - Agacharse **Ctrl Left**
@@ -120,7 +124,7 @@ Este comando sirve para enviar un reporte a la administración sobre una duda o 
 Enviar un mensaje que no tiene fuera de rol. Ejemplo:
 
 
-[id 1] /ooc Como se usa el telefono?
+[id 1] ``/ooc Como se usa el telefono?``
 
 
 [id 2] /ooc con la tecla M
