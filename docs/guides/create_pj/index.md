@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 
-![img_create_pj](https://cdn.discordapp.com/attachments/1187993860329189436/1190011070660755456/image_createpj_3.png?ex=65a03f2c&is=658dca2c&hm=1e1965399db907b4abdb2bd2cb0347aadff9ce71ee8438e10de9813b4d550ff1&)
+![img_create_pj](https://i.imgur.com/z9UAPSH.png)
 
 - **1**. Presiona en este icono para iniciar con la creación de tu personaje.
 - **2**. Ingresa la información personal de tu personaje.
