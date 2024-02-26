@@ -23,7 +23,7 @@ sidebar_position: 1
 
 
 ### 3. Postulación
-- Estado de las postulaciones: CERRADAS
+- Estado de las postulaciones: ABIERTAS
 
 <center>
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdszY6rDrV5EsJdnUMk4owXHPJCNQdIvZ8K-hcXFtGNWOW_1w/viewform?embedded=true" width="740" height="798" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>

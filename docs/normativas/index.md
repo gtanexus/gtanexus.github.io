@@ -21,51 +21,71 @@ sidebar_position: 2
 
 ### 2. Fairplay 
 
-- 2.1. Es el equilibrio entre la búsqueda de tus objetivos propios y la de los otros jugadores. En todo momento debe primar el espíritu de diversión para todos los involucrados en los roles que se desarrollen, por sobre un interés y deseo egoísta de ganar a toda costa. 
+- 2.1. Es el equilibrio entre la búsqueda de tus objetivos propios y la de los otros jugadores. En todo momento debe primar el espíritu de diversión para todos los involucrados en los roles que se desarrollen, por sobre un interés y deseo egoísta de ganar a toda costa.
 
 ### 3. Forzar rol 
 
-- 3.1 Supone actuar de forma irracional o poco coherente de acuerdo a la interpretación de nuestro personaje, con el único fin de obligar a otro/s usuario/s a involucrarse en un rol que nos resulte beneficioso. Todo rol debe generarse y tener motivos in-game. 
+- 3.1 Supone actuar de forma irracional o poco coherente de acuerdo a la interpretación de nuestro personaje, con el único fin de obligar a otro/s usuario/s a involucrarse en un rol que nos resulte beneficioso. Todo rol debe generarse y tener motivos in-game.
 
 ### 4. Evasión de rol 
 
-- 4.1. Consta de evitar un rol por un medio u otro, justificado en razones externas al juego. Por ejemplo, desconectarse ante un rol inminente. Este es un mecanismo prohibido y sancionable de acuerdo a la evaluación del staff. 
+- 4.1. Consta de evitar un rol por un medio u otro, justificado en razones externas al juego. Por ejemplo, desconectarse ante un rol inminente. Este es un mecanismo prohibido y sancionable de acuerdo a la evaluación del staff.
+
+    _Se prohíbe específicamente:_
+    - Desconectar con la intención de evadir un rol, lo cual incluye caídas de conexión o "crashes".
+    - Desconectar antes de ser rematado.
+    - Evitar participar en un roleplay de manera intencionada, ya sea desconectándose ante un rol inminente u otros medios, está prohibido y será sancionado según la evaluación del equipo de administración.
+
+    Cumplir con estas normativas es crucial para mantener un entorno de juego justo y respetuoso para todos los participantes del roleplay.
+
+    _Excepciones:_
+    - En caso de eventos fuera del control del usuario, como caídas de internet, problemas de conexión o fallos en el sistema, se requiere presentar pruebas claras y notificar a través del Discord, en el chat [(#💬〡chat-general)](https://discord.com/channels/976567619836592248/1188628594495324160/) sobre la situación.
 
 ### 5. MetaGaming (MG) 
 
-- 5.1. El metagaming es el uso in-game de información obtenida por vías externas al juego y su utilización para obtener cualquier tipo de beneficio de manera IC. 
+- 5.1. El Metagaming o MG, se refiere al uso indebido de información obtenida fuera del juego (OOC) en situaciones dentro del juego (IC) para obtener ventajas o beneficios de manera inadecuada y que puedan afectar al desenvolupamiento del rol.
+
+    _Se prohíbe específicamente:_
+    - Utilizar conocimientos obtenidos fuera del juego para localizar o interactuar con personajes específicos dentro del juego.
+    - Intercambiar información a través de plataformas externas al juego, como Discord, para obtener ventajas en el juego.
+    - No se permite el uso de servidores de voz, como Discord, TeamSpeak o Skype, para comunicaciones relacionadas con el juego.
 
 ### 6. PowerGaming (PG) 
 
-- 6.1. El powergaming es la realización de cualquier actividad en la cual se empleen abusos de las mecánicas del juego, representando así algo irreal e imposible de realizar. Por ejemplo, no rolear heridas al tener un accidente de tránsito. 
+- 6.1. El Powergaming (PG) se define como la realización de actividades en las que se empleen abusos de las mecánicas del juego, lo que resulta en representaciones irreales e imposibles de llevar a cabo en la vida real. Esto incluye forzar roles o acciones sobre otros jugadores, abusar de los comandos de rol como /me, y aprovecharse de circunstancias del juego GTA V que prueben ser irreales. El PG también abarca no representar de manera realista las reacciones y sentimientos del personaje, como el miedo.
+
+    _Se prohíbe específicamente:_
+    - Subir montañas o estructuras empinadas con vehículos de forma poco realista, lo cual incluye vehículos como Sanchez, camionetas 4x4, entre otros.
+    - Usar superdeportivos a alta velocidad en caminos de tierra.
+    - Realizar el Bunny Hop, es decir, saltar múltiples veces para aumentar la velocidad del personaje.
 
 ### 7. Rol de Entorno (RDE) 
 
-- 7.1. El RDE implica tener en permanente consideración que el desarrollo del personaje se está produciendo dentro de una ciudad real y se debe actuar como tal. Todo lo que hagas dentro del servidor tendrá consecuencias tanto para ti como para el resto de civiles que te rodean. 
+- 7.1. El RDE implica tener en permanente consideración que el desarrollo del personaje se está produciendo dentro de una ciudad real y se debe actuar como tal. Todo lo que hagas dentro del servidor tendrá consecuencias tanto para ti como para el resto de civiles que te rodean.
 
 ### 8. Player Kill (PK) 
 
 - 8.1. Es la inconsciencia total del personaje tras haber caído al suelo, la cuenta de tiempo para tirar de “E” haya acabado o haya sido abatido de nuevo en el suelo. También se considerará que un personaje se encuentra inconsciente si el usuario lo refleja en un /do.
 
-- 8.2. Mientras el personaje se encuentra inconsciente no puede hablar y una vez reanimados, no pueden recordar nada de lo ocurrido durante la inconsciencia. 
+- 8.2. Mientras el personaje se encuentra inconsciente no puede hablar y una vez reanimados, no pueden recordar nada de lo ocurrido durante la inconsciencia.
 
-- 8.3. Esta prohibido realizar un PK a alguien que ha colaborado en todo momento, salvo que en negociaciones con la policía, esta se niegue de forma continuada a cumplir las solicitudes realizadas durante una negociación. 
+- 8.3. Esta prohibido realizar un PK a alguien que ha colaborado en todo momento, salvo que en negociaciones con la policía, esta se niegue de forma continuada a cumplir las solicitudes realizadas durante una negociación.
 
 ### 9. Revenge Kill (RK) 
 
-- 9.1. Consta de la búsqueda de venganza inmediatamente después de ser abatido y sufrir un PK. Se encuentra totalmente prohibida ya que se deben tener en consideración las heridas que se hayan sufrido y que no se puede usar ningún tipo de información obtenida mientras el personaje se encuentra inconsciente. 
+- 9.1. Consta de la búsqueda de venganza inmediatamente después de ser abatido y sufrir un PK. Se encuentra totalmente prohibida ya que se deben tener en consideración las heridas que se hayan sufrido y que no se puede usar ningún tipo de información obtenida mientras el personaje se encuentra inconsciente.
 
 ### 10. Character Kill (CK) 
 
-- 10.1. Es la muerte y/o eliminación del personaje por motivos propios de su desarrollo (muerte propiamente tal, viaje, prisión perpétua, etc). Debe ser autorizado por administración una vez expuestos los motivos para dicho CK y solo puede solicitarse cada 60 días. 
+- 10.1. Es la muerte y/o eliminación del personaje por motivos propios de su desarrollo (muerte propiamente tal, viaje, prisión perpétua, etc). Debe ser autorizado por administración una vez expuestos los motivos para dicho CK y solo puede solicitarse cada 60 días.
 
 ### 11. DeathMatch (DM) 
 
-- 11.1. Consta de cualquier tipo de agresión que se realice contra otro jugador sin motivo aparente y/o sin rol previo. Se encuentra totalmente prohibido. 
+- 11.1. Consta de cualquier tipo de agresión que se realice contra otro jugador sin motivo aparente y/o sin rol previo. Se encuentra totalmente prohibido.
 
 ### 12. Vehicle DeathMatch (VDM) 
 
-- 12.1. Es el uso de un vehículo como arma contra otros jugadores. Está totalmente prohibido. 
+- 12.1. Es el uso de un vehículo como arma contra otros jugadores. Está totalmente prohibido.
 
 ### 13. Comando /me 
 
@@ -89,7 +109,12 @@ sidebar_position: 2
 
 ### 16. Valoración de vida 
 
-- 16.1 El desarrollo de tu personaje tendrá que hacerse en la base de buscar su supervivencia por encima de cualquier cosa, incluso en situaciones en la que la única opción es rendirse y colaborar. 
+- 16.1 Los usuarios deben valorar la integridad física de su personaje en toda situación. El desarrollo del personaje se basará en buscar su supervivencia por encima de cualquier cosa, incluso en situaciones en las que la única opción es rendirse y colaborar.
+
+    _Se prohíbe específicamente:_
+    - Usar arma blanca o puños contra una persona armada con arma de fuego.
+    - Golpear a un grupo de personas estando solo o en desventaja evidente, incluyendo a fuerzas gubernamentales.
+    - Realizar acciones que sean peligrosas para el personaje, como tirarse al agua y nadar sin límetes o tirarse a acantilados durante una persecución.
 
 ### 17. Zonas seguras 
 
