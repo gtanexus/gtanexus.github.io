@@ -4,7 +4,9 @@ title: Mafias
 sidebar_label: Mafias
 sidebar_position: 2
 ---
-
+<div style={{textAlign: 'center'}}>
+  <img src="https://i.imgur.com/GXQdWC9.png" />
+</div>
 <!-- :::caution MODIFICACIONES EN ESTE APARTADO
 Muy pronto estará disponible para su visualización
 :::  -->
