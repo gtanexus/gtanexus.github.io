@@ -1,6 +1,6 @@
 ---
 id: normativa-general
-title: Normativa General
+title: NORMATIVA GENERAL
 sidebar_label: Normativa General
 sidebar_position: 3 #2
 ---
@@ -123,6 +123,8 @@ No existen zonas seguras en el servidor, más allá de aquellos lugares del mapa
 ### ROBOS A TIENDAS
 ### ROBOS A PERSONAJES
 ### SECUESTROS
+### ROLES OFENSIVOS
+
 
 ## CHAT DE VOZ
 
