@@ -111,6 +111,12 @@ CK es la muerte permanente de un personaje por motivos propios de su desarrollo 
 ## 7. ZONAS SEGURAS
 
 No existen zonas seguras en el servidor, más allá de aquellos lugares del mapa que son seguros por rol de entorno de seguridad, como comisarías, hospitales y bases militares.
+Una zona segura es un lugar donde no se podrá realizar ningún acto delictivo que afecte o no a los usuarios que se encuentran en ella.
+    - Comisaría.
+    - Hospital.
+    - Prisión federal.
+    - Aereopuerto.
+    - Fleecas.
 
 ## 8. CREACIÓN DEL PERSONAJE Y USO DE ROPA
 
