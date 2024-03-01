@@ -3,6 +3,7 @@ id: normativa-general
 title: NORMATIVA GENERAL
 sidebar_label: Normativa General
 sidebar_position: 3 #2
+sidebar_class_name: hidden # Eso hace que se oculte la página en el sidebar
 ---
 
 ## Introduction
@@ -41,6 +42,15 @@ BD es manejar un vehículo de manera irrealista, sin respetar la lógica y la se
     - Prohibido conducir a velocidades altas en vías transitadas.
     - Prohibido conducir en dirección contraria sin motivos de rol válidos (por ejemplo, una persecución).
     - En persecuciones, únicamente la primera unidad en cola podrá conducir en dirección contraria seguiendo al perseguido.
+
+### 1.3. VALORACIÓN DE VIDA
+
+Los usuarios deben valorar la integridad física de su personaje en toda situación. El desarrollo del personaje se basará en buscar su supervivencia por encima de cualquier cosa, incluso en situaciones en las que la única opción es rendirse y colaborar.
+
+    _Se prohíbe específicamente:_
+    - Usar arma blanca o puños contra una persona armada con arma de fuego.
+    - Golpear a un grupo de personas estando solo o en desventaja evidente, incluyendo a fuerzas gubernamentales.
+    - Realizar acciones que sean peligrosas para el personaje, como tirarse al agua y nadar sin límetes o tirarse a acantilados durante una persecución.
 
 ## 2. METAGAMING (MG)
 
@@ -116,7 +126,8 @@ Una zona segura es un lugar donde no se podrá realizar ningún acto delictivo q
     - Hospital.
     - Prisión federal.
     - Aereopuerto.
-    - Fleecas.
+    - Fleecas (exceptuando el robo a este).
+    - Eventos marcados como zona segura por staff.
 
 ## 8. CREACIÓN DEL PERSONAJE Y USO DE ROPA
 
@@ -128,9 +139,11 @@ Una zona segura es un lugar donde no se podrá realizar ningún acto delictivo q
 ## ACTOS DELICTIVOS
 ### ROBOS A TIENDAS
 ### ROBOS A PERSONAJES
+
+Un robo es un 
+
 ### SECUESTROS
 ### ROLES OFENSIVOS
-
 
 ## CHAT DE VOZ
 
