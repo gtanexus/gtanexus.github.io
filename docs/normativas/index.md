@@ -227,7 +227,7 @@ La corrupción es cuando alguien en una posición de autoridad o poder abusa de 
 
     _Se prohíbe específicamente:_
     - La venta, traspaso o uso propio de cualquier material gubernamental (tanto de LSPD como PHMC).
-    - Los usuarios que formen parte de la LSPD en ningún caso podrán tener un rol corrupto, exceptuando casos con aprovación administrativa.
+    - Los usuarios que formen parte de la LSPD en ningún caso podrán tener un rol corrupto, exceptuando casos con aprobación administrativa.
 
 ## 13. REPORTES
 
