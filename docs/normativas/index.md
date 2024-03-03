@@ -1,35 +1,29 @@
 ---
-title: Normativas
-sidebar_position: 2
+id: normativas
+title: NORMATIVA GENERAL
+sidebar_label: Normativas
+sidebar_position: 2 #2
+#sidebar_class_name: hidden # Eso hace que se oculte la página en el sidebar
 ---
 
-# NORMATIVA GENERAL
+## Introducción
 
-## CONCEPTOS BÁSICOS 
+En nuestro servidor de roleplay, la comunidad es el pilar fundamental para mantener un ambiente de juego justo, seguro y respetuoso. Para garantizar la integridad y el bienestar de todos los usuarios, hemos establecido esta normativa sobre reportes a otros usuarios. Esta guía detalla el proceso para presentar reportes, los tipos de situaciones que pueden ser reportadas, así como las acciones que se tomarán en respuesta a dichos reportes. Creemos firmemente en la importancia de mantener una comunidad libre de comportamientos inapropiados y violaciones de las normas, y alentamos a todos los usuarios a utilizar este sistema de manera responsable y colaborativa para mantener un entorno de juego positivo para todos.
 
-### 1. Interpretación de personaje (IDP)
+## 1. POWERGAMING (PG)
 
-- 1.1. Consta de actuar in-game de acuerdo a la personalidad, actitudes, cualidades y objetivos que se le otorgan al personaje que decides interpretar y es lo primordial en todas las situaciones que ocurran mientras te encuentres en el servidor. 	 
+El Powergaming (PG) se define como la realización de actividades en las que se empleen abusos de las mecánicas del juego, lo que resulta en representaciones irreales e imposibles de llevar a cabo en la vida real. Esto incluye forzar roles o acciones sobre otros jugadores, abusar de los comandos de rol como /me, y aprovecharse de circunstancias del juego GTA V que prueben ser irreales. El PG también abarca no representar de manera realista las reacciones y sentimientos del personaje, como el miedo.
 
-### 2. In Character (IC)
+    _Se prohíbe específicamente:_
+    - Subir montañas o estructuras empinadas con vehículos de forma poco realista, lo cual incluye vehículos como Sanchez, camionetas 4x4, entre otros.
+    - Usar superdeportivos a alta velocidad en caminos de tierra.
+    - Realizar el Bunny Hop, es decir, saltar múltiples veces para aumentar la velocidad del personaje.
+    - Se prohibe rolear cámaras de seguridad que no estén mapeadas en ese lugar.
+    - No estará permitido rolear el uso de una Go-Pro, únicamente se permitirá la excepción de las BodyCam de personajes de LSPD, que se podrán rolear pero deberán estar equipadas visiblemente con la prenda de ropa correspondiente.
 
-- 2.1. Es un termino que has oido anteriormente que significa todo aquel suceso que se presenta dentro del rol y tu personaje.
+### 1.1. EVASIÓN DE ROLEPLAY
 
-### 3. Out Of Character (OOC)
-
-- 3.1. Es un termino que has ido con anterioridad que significa todo aquel suceso ajeno al rol y tu personaje.
-
-### 2. Fairplay 
-
-- 2.1. Es el equilibrio entre la búsqueda de tus objetivos propios y la de los otros jugadores. En todo momento debe primar el espíritu de diversión para todos los involucrados en los roles que se desarrollen, por sobre un interés y deseo egoísta de ganar a toda costa.
-
-### 3. Forzar rol 
-
-- 3.1 Supone actuar de forma irracional o poco coherente de acuerdo a la interpretación de nuestro personaje, con el único fin de obligar a otro/s usuario/s a involucrarse en un rol que nos resulte beneficioso. Todo rol debe generarse y tener motivos in-game.
-
-### 4. Evasión de rol 
-
-- 4.1. Consta de evitar un rol por un medio u otro, justificado en razones externas al juego. Por ejemplo, desconectarse ante un rol inminente. Este es un mecanismo prohibido y sancionable de acuerdo a la evaluación del staff.
+Consta de evitar un rol por un medio u otro, justificado en razones externas al juego. Por ejemplo, desconectarse ante un rol inminente. Este es un mecanismo prohibido y sancionable de acuerdo a la evaluación del staff.
 
     _Se prohíbe específicamente:_
     - Desconectar con la intención de evadir un rol, lo cual incluye caídas de conexión o "crashes".
@@ -41,195 +35,212 @@ sidebar_position: 2
     _Excepciones:_
     - En caso de eventos fuera del control del usuario, como caídas de internet, problemas de conexión o fallos en el sistema, se requiere presentar pruebas claras y notificar a través del Discord, en el chat [(#💬〡chat-general)](https://discord.com/channels/976567619836592248/1188628594495324160/) sobre la situación.
 
-### 5. MetaGaming (MG) 
+### 1.2. BAD DRIVING (BD)
 
-- 5.1. El Metagaming o MG, se refiere al uso indebido de información obtenida fuera del juego (OOC) en situaciones dentro del juego (IC) para obtener ventajas o beneficios de manera inadecuada y que puedan afectar al desenvolupamiento del rol.
-
-    _Se prohíbe específicamente:_
-    - Utilizar conocimientos obtenidos fuera del juego para localizar o interactuar con personajes específicos dentro del juego.
-    - Intercambiar información a través de plataformas externas al juego, como Discord, para obtener ventajas en el juego.
-    - No se permite el uso de servidores de voz, como Discord, TeamSpeak o Skype, para comunicaciones relacionadas con el juego.
-
-### 6. PowerGaming (PG) 
-
-- 6.1. El Powergaming (PG) se define como la realización de actividades en las que se empleen abusos de las mecánicas del juego, lo que resulta en representaciones irreales e imposibles de llevar a cabo en la vida real. Esto incluye forzar roles o acciones sobre otros jugadores, abusar de los comandos de rol como /me, y aprovecharse de circunstancias del juego GTA V que prueben ser irreales. El PG también abarca no representar de manera realista las reacciones y sentimientos del personaje, como el miedo.
+BD es manejar un vehículo de manera irrealista, sin respetar la lógica y la seguridad vial, poniendo en riesgo tanto la vida del personaje como la de otros usuarios.
 
     _Se prohíbe específicamente:_
-    - Subir montañas o estructuras empinadas con vehículos de forma poco realista, lo cual incluye vehículos como Sanchez, camionetas 4x4, entre otros.
-    - Usar superdeportivos a alta velocidad en caminos de tierra.
-    - Realizar el Bunny Hop, es decir, saltar múltiples veces para aumentar la velocidad del personaje.
+    - Está prohibido conducir de forma intencionada y maliciosa, dañando y chocando contra objetos y vehículos.
+    - Prohibido conducir a velocidades altas en vías transitadas.
+    - Prohibido conducir en dirección contraria sin motivos de rol válidos (por ejemplo, una persecución).
+    - En persecuciones, únicamente la primera unidad en cola podrá conducir en dirección contraria seguiendo al perseguido.
 
-### 7. Rol de Entorno (RDE) 
+### 1.3. VALORACIÓN DE VIDA
 
-- 7.1. El RDE implica tener en permanente consideración que el desarrollo del personaje se está produciendo dentro de una ciudad real y se debe actuar como tal. Todo lo que hagas dentro del servidor tendrá consecuencias tanto para ti como para el resto de civiles que te rodean.
-
-### 8. Player Kill (PK) 
-
-- 8.1. Es la inconsciencia total del personaje tras haber caído al suelo, la cuenta de tiempo para tirar de “E” haya acabado o haya sido abatido de nuevo en el suelo. También se considerará que un personaje se encuentra inconsciente si el usuario lo refleja en un /do.
-
-- 8.2. Mientras el personaje se encuentra inconsciente no puede hablar y una vez reanimados, no pueden recordar nada de lo ocurrido durante la inconsciencia.
-
-- 8.3. Esta prohibido realizar un PK a alguien que ha colaborado en todo momento, salvo que en negociaciones con la policía, esta se niegue de forma continuada a cumplir las solicitudes realizadas durante una negociación.
-
-### 9. Revenge Kill (RK) 
-
-- 9.1. Consta de la búsqueda de venganza inmediatamente después de ser abatido y sufrir un PK. Se encuentra totalmente prohibida ya que se deben tener en consideración las heridas que se hayan sufrido y que no se puede usar ningún tipo de información obtenida mientras el personaje se encuentra inconsciente.
-
-### 10. Character Kill (CK) 
-
-- 10.1. Es la muerte y/o eliminación del personaje por motivos propios de su desarrollo (muerte propiamente tal, viaje, prisión perpétua, etc). Debe ser autorizado por administración una vez expuestos los motivos para dicho CK y solo puede solicitarse cada 60 días.
-
-### 11. DeathMatch (DM) 
-
-- 11.1. Consta de cualquier tipo de agresión que se realice contra otro jugador sin motivo aparente y/o sin rol previo. Se encuentra totalmente prohibido.
-
-### 12. Vehicle DeathMatch (VDM) 
-
-- 12.1. Es el uso de un vehículo como arma contra otros jugadores. Está totalmente prohibido.
-
-### 13. Comando /me 
-
-- 13.1. Se utiliza para realizar acciones que no tengan animación dentro del juego y se requiera enriquecer el rol. Siempre debe escribirse en tercera persona y **NUNCA** podrá utilizarse para comunicar pensamientos. 
-
-### 14. Comando /do 
-
-- 14.1. Es un comando narrativo que se usa para comunicar una infinidad de cosas relacionadas al entorno. Se puede utilizar para describir alguna característica física o del entorno que rodea al personaje.  
-
-- 14.2. También se utiliza para autorizar dentro del rol ajeno, pidiendo permiso a otra persona sobre una acción que la involucra.  
-
-- 14.3. No puede utilizarse para comunicar pensamientos, opiniones o plantear situaciones carentes de sentido.  
-
-- 14.4. **NUNCA** se puede mentir en un /do y tampoco se puede utilizar para forzar el rol de otro jugador. 
-
-### 15. Comando /ooc 
-
-- 15.1. Este comando son la única forma de comunicación OOC permitida dentro del servidor. 
-
-## NORMAS GENERALES 
-
-### 16. Valoración de vida 
-
-- 16.1 Los usuarios deben valorar la integridad física de su personaje en toda situación. El desarrollo del personaje se basará en buscar su supervivencia por encima de cualquier cosa, incluso en situaciones en las que la única opción es rendirse y colaborar.
+Los usuarios deben valorar la integridad física de su personaje en toda situación. El desarrollo del personaje se basará en buscar su supervivencia por encima de cualquier cosa, incluso en situaciones en las que la única opción es rendirse y colaborar.
 
     _Se prohíbe específicamente:_
     - Usar arma blanca o puños contra una persona armada con arma de fuego.
     - Golpear a un grupo de personas estando solo o en desventaja evidente, incluyendo a fuerzas gubernamentales.
     - Realizar acciones que sean peligrosas para el personaje, como tirarse al agua y nadar sin límetes o tirarse a acantilados durante una persecución.
 
-### 17. Zonas seguras 
+## 2. METAGAMING (MG)
 
-- 17.1. No existen zonas seguras en el servidor, más allá de aquellos lugares del mapa que son seguros por RDE de seguridad, como comisarías, hospitales y bases militares. 
+El Metagaming o MG, se refiere al uso indebido de información obtenida fuera del juego (OOC) en situaciones dentro del juego (IC) para obtener ventajas o beneficios de manera inadecuada y que puedan afectar al desenvolupamiento del rol.
 
-### 18. Reportar en medio de un rol
+    _Se prohíbe específicamente:_
+    - Utilizar conocimientos obtenidos fuera del juego para localizar o interactuar con personajes específicos dentro del juego.
+    - Intercambiar información a través de plataformas externas al juego, como Discord, para obtener ventajas en el juego.
+    - No se permite el uso de servidores de voz, como Discord, TeamSpeak o Skype, para comunicaciones relacionadas con el juego.
+    - Está totalmente prohibido el traspaso de dinero a otro/s usuario/s al momento de hacerse un CK con la intención de que ese dinero vuelva a tu nuevo personaje o se lo queden otros sin un rol justificable.
 
-- 18.1. Nunca se debe detener un rol, y reportar en el proceso. Lo correcto es terminar el rol y abrir un ticket en Discord, comentar lo sucedido, será obligatorio presentar pruebar gráficas.
+## 3. DEATHMATCH (DM)
 
-### 18. Actos sexuales y violaciones 
+El término "Deathmatch" (DM) se refiere a la agresión violenta hacia otro usuario sin una justificación válida dentro del contexto del juego. Esto abarca cualquier forma de violencia, incluyendo el uso de armas, vehículos, y provocaciones verbales sin una interacción IC (In Character) que lo respalde.
 
-- 18.1. Los actos sexuales están permitidos si existe mutuo acuerdo entre ambas personas. Sin embargo, las VIOLACIONES y ABUSOS están COMPLETAMENTE PROHIBIDAS aun habiendo consentimiento por ambas partes de manera OOC. 
+Se espera que la fuerza utilizada en cualquier interacción esté en consonancia con la situación de rol. Por ejemplo, un simple insulto no justifica una respuesta letal. Debería existir una progresión lógica en la respuesta, donde un insulto podría llevar a una amenaza, una amenaza a la exhibición de armas, y la exhibición de armas al uso de las mismas.
 
-### 19. Uso de vehículos  
+    _Se prohíbe específicamente:_
+    - No está permitido atropellar a otros usuarios o vehículos con un vehículo propio sin una razón válida dentro del contexto del juego.
+    - No se permite insultar a otros usuarios sin una justificación IC.
+    - Queda prohibido dirigirse a áreas pertenecientes a grupos o facciones con el objetivo de buscar un conflicto sin una justificación roleplay válida.
+    - No está permitido atacar a otro usuario basado únicamente en sus elecciones de vestimenta.
 
-- 19.1. Únicamente se puede disparar desde el interior de un vehículo a pinchar las ruedas o bien intimidar, pero nunca se podrá disparar a matar, en todos los casos.  
+### 3.1. VEHICLE DEATHMATCH (VDM) O CAR KILL
 
-- 19.2. Una vez iniciado un Drive By te arriesgas a que los otros sujetos te disparen a matar.  
+El término "Car Kill" (carkill) se refiere al uso del vehículo como un arma para infligir daño a otros usuarios.
 
-- 19.3. Un Drive By consiste en pasar por una zona disparando desde un vehículo sin detenerte y ateniéndose a las normas anteriores mencionadas.  
+    _Se prohíbe específicamente:_
+    - Embestir intencionalmente a otro vehículo con el objetivo de causar daño a los usuarios dentro del mismo.
+    - Embestir intencionadamente el vehículo hacia otros jugadores con la intención de causarles daño o matarles.
 
-### 20. Uso de armas 
+    _Excepciones:_
+    - Si un individuo comienza un rol agresivo con armas contra los ocupantes del vehículo, el conductor podrá emplear la ruta de escape más rápida para salvaguardar su vida o la de los pasajeros. En caso de que un usuario apunte directamente hacia el vehículo, el conductor estará autorizado a atropellar al individuo como último recurso de escape, únicamente si constituye la única opción viable para garantizar la seguridad del vehículo y de sus ocupantes.
 
-- 20.1. Por parte de los civiles y organizaciones, se permitirá el uso de cualquier tipo de arma ateniéndose a las consecuencias que su uso pueda acarrear.  
+## 4. PLAYERKILL (PK)
 
-### 21. Uso de máscaras 
+Se considera PK cuando un personaje queda inconsciente tras haber caído al suelo, agotado el tiempo para la aparición en el hospital (tecla E), o haber sido abatido nuevamente en el suelo. También se incluye como PK si el usuario lo refleja mediante un /do.
 
-- 21.1. Cuando se usa una máscara (parcial o total), no se podrá reconocer la identidad de la persona. No obstante, según el tipo de máscara hay ciertos detalles como el color del cabello  o de los ojos que pueden ser perceptibles y por ende, podría levantar sospechas o incluso revelar la identidad del personaje. 
+    _Se prohíbe específicamente:_
+    - Durante la inconsciencia, el personaje no puede hablar.
+    - Al ser reanimado, no podrá recordar nada de lo sucedido durante ese periodo, no podrá acudir al mismo rol dónde recibió el PK ni qué le causó haberlo recibido.
+    - Está prohibido realizar un PK a alguien que ha cooperado en todo momento, a menos que, en negociaciones con la policía, se niegue de manera persistente a cumplir con las solicitudes realizadas durante dicha negociación.
+    - Al recibir un PK, se debe interpretar como que el personaje fue gravemente herido y llevado al hospital. El usuario afectado debe asumir que llegó al hospital con las heridas que lo dejaron en estado crítico, sin recordar los eventos que lo llevaron a ese estado. No se permite buscar venganza, comentar sobre el incidente ni realizar un seguimiento del rol por cuenta propia. Otros personajes pueden recordar al usuario afectado cómo llegó al hospital si fueron testigos del incidente.
 
-### 21. Ropa de facciones 
+### 4.1. PLAYERKILL TOTAL (PKT)
 
-- 22.1. Está totalmente prohibido usar ropa de faccion sin pertenecer a ellas.
+Se entiende como PKT la muerte del personaje en relación con un contexto de rol significativo para el mismo. Un PKT marca un punto final en la historia del personaje con una organización específica. Todos los recuerdos relacionados con el PKT deben ser olvidados y no pueden ser utilizados para la participación del personaje bajo ninguna circunstancia.
+
+    _Requisitos para un PKT:_
+    - La realización de un PKT debe basarse en una justificación sólida respaldada por una historia elaborada, investigación profunda o un roleplay apropiado.
+    - Se exige la presentación de pruebas visuales, como imágenes o vídeos, del PKT y del roleplay previo asociado. En caso de reportes, la falta de pruebas adecuadas puede resultar en una resolución a favor del reportante.
+
+## 5. REVENGEKILL (RK)
+
+Se considera RevengeKill (RK) el acto de buscar venganza sobre el o los usuarios que participaron en la muerte de tu personaje.
+
+    _Se prohíbe específicamente:_
+    - El personaje asesinado no podrá regresar a la zona donde ocurrió su muerte durante al menos 30 minutos o hasta que finalice el rol por parte de los otros usuarios implicados.
+    - Esta regla se aplica únicamente cuando el personaje es completamente asesinado y no cuando cae en estado de "herido" y es auxiliado por otros personajes.
+
+## 6. CHARACTERKILL (CK)
+
+CK es la muerte permanente de un personaje por motivos propios de su desarrollo (muerte propiamente tal, viaje, prisión perpétua, etc), lo que implica que no se podrá volver a utilizar.
+    - Un usuario puede optar por rolear la muerte de su personaje en un rol adecuado y no forzado.
+    - La decisión de llevar a cabo un CK es completamente voluntaria por parte del usuario afectado, quien tiene derecho a aceptar o rechazar el rol que conduzca a la eliminación de su personaje.
+    - Si el rol experimenta un cambio drástico, como pasar de ser parte de una Organización Gubernamental a una Organización Ilegal, o viceversa, el usuario debe realizar un CK.
+    - Un usuario que acumule una cantidad significativa de delitos federales podría, a través del rol correspondiente, recibir una cadena perpetua, lo que se ejecuta como un CK.
+
+## 7. ZONAS SEGURAS
+
+No existen zonas seguras en el servidor, más allá de aquellos lugares del mapa que son seguros por rol de entorno de seguridad, como comisarías, hospitales y bases militares.
+Una zona segura es un lugar donde no se podrá realizar ningún acto delictivo que afecte o no a los usuarios que se encuentran en ella.
+    - Comisaría.
+    - Hospital.
+    - Prisión federal.
+    - Aereopuerto.
+    - Fleecas (exceptuando el robo a este).
+    - Eventos marcados como zona segura por staff.
+
+## 8. CREACIÓN DEL PERSONAJE Y USO DE ROPA
+
+- Todos los jugadores deben crearse un personaje realista. La administración del servidor tiene derecho a exigir a los usuarios que modifiquen sus personajes si alguna característica se considera irreal o inapropiada.
+- Queda terminantemente prohibido provocar intencionalmente que el cuerpo del personaje sea invisible mediante el abuso de bugs relacionados con la ropa.
+- Está estrictamente prohibido utilizar ropa de facción sin pertenecer a la misma o estando fuera de servicio.
+- Cuando se utiliza una máscara (parcial o total), la identidad de la persona no puede ser reconocida. Sin embargo, ciertos detalles como el color del cabello o de los ojos podrían ser perceptibles dependiendo del tipo de máscara, lo que podría levantar sospechas o incluso revelar la identidad del personaje.
+
+## 9. ACTOS DELICTIVOS
+### 9.1. ROBOS A TIENDAS
+
+|                                      | Robo a tienda        | Robo a joyería | Robo a casas |
+| :-                                   |:----------:          |:----------:    |:----------:  |
+| **Policías mínimos**                 | 1                    | 6              | 4            |
+| **Atracadores máximos**              | 3                    | 5              | 3            |
+| **Rehenes máximos**                  | Tendero + 2 usuarios | 4 usuarios     | -            |
+| **Tiradores (francotirador)**        | NO                   | 1              | NO           |
+| **Tiradores (pistola, subfusil...)** | 1                    | 1              | 1            |
+
+- "Atracadores máximos" se refiere tanto a los atracadores que hay dentro de la tienda como fuera (tiradores), por ejemplo, en caso de robar una tienda, podrán ser 3 atracadores dentro o 2 dentro y uno fuera (tirador).
+- Se podrá rolear tener al tendero (vendedor de la tienda) como rehén para negociaciones con la policía.
+- Los tiradores con francotirador también se aplica para la policía.
+
+### 9.2. ROBOS A PERSONAJES
+
+Un robo es un asalto a un personaje con el propósito de robarle el dinero y los ítems que posee en ese momento. Estos incidentes deben llevarse a cabo en lugares poco transitados.
+    
+    _Requisitos:_
+    - Únicamente se podrá robar utilizando el menú de cacheo "F1" (y con el correspondiente rol).
+
+    _Se prohíbe específicamente:_
+    - Está prohibido realizar robos en lugares públicos y cerca de las zonas seguras.
+    - No se podrá robar a usuarios que estén realizando trabajos públicos (basurero, leñador, reciclador, envío de paquetería, piloto, buzo y conductor de autobuses).
+    - Está prohibido llevar a cabo múltiples robos en cadena, es poco realista.
+
+|                                      | Robo a personaje  |
+| :-                                   |:----------:       |
+| **Policías mínimos**                 | 1                 |
+| **Atracadores máximos**              | 2 por personaje   |
+| **Tiradores (francotirador)**        | NO                |
+
+    - Se permitirán 2 atracadores por usuario atracado, es decir, si van a atracar a dos usuarios, podrán hacerlo un máximo de 4 atracadores.
+
+### 9.3. SECUESTROS
+
+El secuestro se define como el acto de retener a una persona de manera coercitiva y contra su voluntad, usualmente con el objetivo de exigir un rescate o alguna otra demanda específica a cambio de su liberación. Un secuestro implica la representación ficticia de esta situación mediante la interacción de los personajes de los usuarios, donde uno o varios de ellos retienen al personaje de otro usuario, creando una narrativa que refleje esta acción dentro del juego.
+
+    _Se prohíbe específicamente:_
+    - Queda prohibido matar (hacer PK) al usuario en caso de que coopere.
+    - Está prohibido llevar a cabo múltiples secuestros en cadena, es poco realista.
+    - No se permite retener a un usuario como rehén durante más de 30 minutos, a menos que el usuario secuestrado acepte una extensión de tiempo a través del chat (/ooc).
+    - No se permite hacer un secuestro con menos de 3 policías activos.
+
+### 9.4. ROLES OFENSIVOS
+
+Un rol ofensivo es aquel en el que un jugador interpreta a su personaje de manera agresiva, hostil o provocativa hacia otros personajes dentro del juego. Esto puede implicar acciones como insultos, amenazas, intimidación, violencia física o verbal, y cualquier otra conducta que pueda causar molestia, incomodidad o conflicto entre los personajes. El objetivo de un rol ofensivo puede variar según la narrativa del juego, pero generalmente busca generar tensión, conflicto o drama en la historia del juego. Es importante distinguir entre un rol ofensivo dentro del contexto del juego de roles y comportamientos inapropiados o irrespetuosos fuera del juego.
+
+    _Especificaciones:_
+    - Cualquier rol sexual, provocativos, abusos o violaciones deberán ser aprovados OOC antes de que el rol se efectúe.
+    - Los usuarios y los personajes IC de esos usuarios deberán ser mayores de 18 años.
+    - El usuario que se involucre en cualquier rol sexual, podrá abandonar el mismo aunque préviamente lo haya aceptado.
+    - Los roles relacionados con la necrofilia, zoofilia, pedofilia y canibalismo están completamente prohibidos.
+
+## 10. CHAT DE VOZ
+
+- El chat de voz es considerado IC. Se deberá representar como la voz del personaje y no como la voz real del jugador.
+- No se podrá utilizar el chat de voz para hablar sobre temas OOC a menos que un administrador de la autorización.
+- El chat ooc (/ooc) se utilizará para aclarar situaciones sobre el rol actual y deberá hacerse con respeto, queda prohibido insultar, amenazar de reporte o quejarse.
+- No se permitirá gritar ni saturar el micrófono.
+- No se permite poner música a través del micrófono.
+
+### 10.1. RADIO IC
+
+- El único medio de comunicación radial válido será el ítem de radio IC.
+- Se prohiben plataformas externas (TeamSpeak, Discord...) como uso de radio IC, se considerará MG.
+
+## 11. ABUSO DE SISTEMAS Y BUGS
+
+Se considera abuso de sistemas y bugs cualquier acción por parte de los usuarios que aproveche errores o fallos del juego, así como el uso indebido de funciones o características del servidor para obtener ventajas injustas o provocar daños.
+
+    _Se prohíbe específicamente:_
+    - Queda estrictamente prohibido el uso intencional de errores o fallos del juego para obtener beneficios indebidos.
+    - Está prohibido el uso de cualquier tipo de programa o software externo que altere o manipule el funcionamiento del juego o del servidor.
+    - No se permite el uso de exploits, trucos o tácticas abusivas que afecten negativamente la experiencia de juego de otros usuarios.
+    - Queda prohibida la difusión o explotación de cualquier bug o fallo del juego. Los usuarios deben informar de inmediato a los administradores sobre cualquier error encontrado.
+
+## 12. CORRUPCIÓN Y ROL ILEGAL EN GUBERNAMENTALES
+
+La corrupción es cuando alguien en una posición de autoridad o poder abusa de esa posición para su propio beneficio, haciendo cosas malas o injustas, como aceptar sobornos, tratar de obtener ventajas especiales o usar su influencia para obtener dinero o poder de manera deshonesta.
+**No se permite** la corrupción en ninguna gubernamental (ya sea LSPD o PHMC).
+
+    _Excepciones:_
+    - Se permiten que los usuarios que formen parte de Pillbox Hill Medical Center (PHMC) también formen parte de una banda, mafia o se relacionen con ellos. Estos deberán mantener un rol acorde y encuebierto.
+
+    _Se prohíbe específicamente:_
+    - La venta, traspaso o uso propio de cualquier material gubernamental (tanto de LSPD como PHMC).
+    - Los usuarios que formen parte de la LSPD en ningún caso podrán tener un rol corrupto, exceptuando casos con aprovación administrativa.
+
+## 13. REPORTES
+
+El sistema de reportes está diseñado para garantizar un entorno de juego justo, seguro y respetuoso para todos los usuarios del servidor de roleplay.
+
+    _Procedimiento del reporte:_
+    - Los usuarios pueden realizar reportes mediante el panel IC (/reporte), como el sistema de tickets de Discord [(#⁠📩〡tickets)](https://discord.com/channels/976567619836592248/1043990195214749776/), el chat de soporte o cualquier otro medio establecido por los administradores del servidor.
+    - Los reportes deben incluir información detallada sobre el incidente, incluyendo nombres de usuario involucrados, descripción de la situación y cualquier evidencia relevante, como capturas de pantalla o grabaciones de video.
+    - Todos los reportes serán tratados de manera confidencial y con respeto hacia la privacidad de los usuarios involucrados. Se deberá mantener un lenguaje adecuado en todo momento.
+    - Los usuarios que realicen reportes deben abstenerse de difundir información sobre el reporte o los usuarios involucrados, y deben confiar en el equipo administrativo para manejar la situación de manera adecuada.
+    - Realizar reportes falsos o de mala fe puede resultar en consecuencias para el usuario que los haya presentado, incluyendo sanciones similares a las impuestas por otras violaciones de normas del servidor.
 
 
-<!-- ### 22. Reaparición en hospital
+:::caution Modificaciones en la Normativa
 
-- . Queda prohibido pulsar la E para reaparecer en el hospital mientras el rol siga en curso. -->
-
-### 22. Traspaso de dinero 
-
-- 22.1. Está totalmente prohibido el traspaso de dinero a otro/s usuario/s al momento de hacerse un CK con la intención de que ese dinero vuelva a tu nuevo personaje. La infracción de esta norma, acarreará la sanción correspondiente. 
-
-### 23. Actos Delictivos
-
-- 23.1. Civiles (no pertenecientes a algún tipo de organización criminal) participantes en roles agresivos: 5 
-
-- 23.2. Nunca se podrá superar el máximo en rol agresivo por normativa civil. El rol finaliza cuando los participantes se escapan o son detenidos por la policía. Si en el momento de la detención aparecen otras cinco personas para realizar un rescate, serán sancionados.  
-
-- 23.3. Solo se podrá realizar un rescate en estos casos si 3 o 4 participantes en dicho rol no son atrapados por la policía. NADIE ajeno a dicho rol podrá intervenir. 
-
-- 23.4. Queda prohibido el realizar actos delictivos hasta que no hayan transcurrido 15 minutos desde el reinicio. 
-
-- 23.5. Queda prohibido el uso de casco en un rol agresivo con fin de obtener un beneficio abusando del mismo (sujeto a interpretación de personaje). 
-
-### 24. Ajuste de cuentas 
-
-- 24.1. Un ajuste de cuentas supone cualquier rol agresivo (bien sea un secuestro, un robo, un Drive By) que se realiza contra un personaje/s con los que se tiene un problema o conflicto, que debe tener unos motivos concretos y de peso. 
-
-### 25. Uso de tiradores en roles agresivos 
-
-- 25.1. En robo a pequeños establecimientos, queda prohibido contar con tirador.  
-
-### 26. Lootboxing 
-
-- 26.1. Queda prohibido el lootboxing, es decir, no se puede robar las pertenencias a un personaje sin ningún tipo de rol previo (si no se conoce de nada a la persona o no te ha dado ningún motivo de peso para hacerlo), sobre todo cuando estos se encuentren en servicio en alguno de los trabajos existentes en el servidor. Cabe mencionar, que es posible robarle a la las fuerzas del Estado (policía, sheriff y militares) siempre y cuando hayan sido abatidos en un enfrentamiento previo. 
-
-### 27. Cámaras de vigilancia y Go-Pro 
-
-- 27.1. Solo se podrá hacer uso en rol de aquellas cámaras que se puedan ver físicamente en el juego, así como cajeros automáticos y las cámaras disponibles para la policía durante robos de normativa.  
-
-- 27.2. No estará permitido rolear el uso de una Go-Pro, únicamente se permitirá la excepción de las BodyCam de personajes de LSPD o LSSD, que se podrán rolear pero deberán estar equipadas visiblemente con la prenda de ropa correspondiente. 
-
-## ADMINISTRACIÓN 
-
-### 28. Moderación 
-
-- 28.1. La normativa queda exclusivamente a interpretación del STAFF del servidor, velando siempre por el Fairplay, la buena fe y el correcto desarrollo del rol.  
-
-- 28.2. La administración del servidor se reserva el derecho de admisión y permanencia de todos los miembros del mismo, siendo quien decide así su acceso e incluso las sanciones asignadas durante la estadía.  
-
-- 28.3. Buscar huecos o vacíos en cualquier normativa del servidor no está permitido y será sancionable.   
-
-- 28.4. Cualquier actitud que exclusivamente busque una ventaja en PVP mediante mecánicas del juego usadas de forma ilógica será sancionable y quedará completamente sujeto a interpretación del STAFF. (Ej. Quitar zapatos durante roles agresivos, abuso de animaciones o /suelo, uso abusivo de tercera persona…).  
-
-- 28.5. Si ves alguna acción, actitud, detalle o cualquier cosa que vaya en contra de la normativa, y sientas que haya perjudicado tu rol, podrás reportarla con las pruebas correspondientes en Discord siguiendo la normativa de reportes. 
-
-- 28.6. Si el Staff considera que el reporte no se está utilizando con el fin de querer corregir conductas negativas y se entiende que se está utilizando para atacar a otro jugador, podría considerarse una actitud negativa y será sancionado. 
-
-### 29. Desarrollo 
-
-- 29.1. Utilizar hacks, cheats, exploits, mods, inyectables o cualquier programa de terceros que ayuden a tener una ventaja frente al resto de usuarios conlleva una sanción.  
-
-- 29.2. Aprovecharse de bugs del juego o de scripts del servidor para el beneficio propio o incluso de un tercero en vez de reportarlo a la administración, será sancionado.  
-
-- 29.3. No se permiten las resoluciones estiradas (4:3, 5:4). Queda prohibido el uso de programas externos como el ReShade con el fin de estirar las resoluciones. 
-
-:::caution Modificaciones en Normativa
-
-Es importante destacar que la administración se reserva el derecho de modificar la normativa actual, lo que se informará debidamente y por ende, es exclusiva responsabilidad del usuario mantenerse al tanto de dichas modificaciones.  
-
-:::
-
-
-<!-- 
-2.	CK de banda o mafia a policías: se podrá realizar a un policía siempre que haya un motivo de peso y una investigación detrás, que deba ser aprobado previamente por la Administración a través de ticket. Como excepción, se le podrá realizar a los policías con rango “Prácticas” hasta “Inspector” inclusive, salvo rol pactado con rangos superiores.
-
-3.	CK de banda o mafia a civiles: aquel civil que ponga en riesgo o perjudique claramente la actividad ilegal y negocio de una banda o mafia, ya sea traficando con drogas, armas o dinero ilegal, estará expuesto a este procedimiento, que deberá ser previamente aprobado por la Administración a través de ticket.
-
-4.	CK entre bandas o mafias: se podrá realizar un CK entre miembros o a organizaciones completas que estén perjudicando claramente la actividad ilegal de la otra. Para ello es preciso una investigación previa aportando pruebas gráficas, DNI, pruebas de pertenencia a una banda o mafia, etc. Asimismo, si se le realiza al jefe:
-
-∞	La organización o banda quedará en manos del subjefe, a menos que si también se le realiza a éste, entonces quedará desmantelada.
-∞	En caso de desmantelamiento, los miembros que queden vivos sufrirán un PKT.
-∞	La banda o mafia que haya desmantelado a otra se quedará con un 20% de su dinero y de su arsenal armamentístico.
-∞	Tiene que ser solicitado a través de ticket.
-
-5.	CK voluntario: debe haber un motivo de peso y sólo se permitirá uno al mes. Tiene que ser solicitado a la Administración a través de ticket.
-6.	CK o PKT administrativo: la Administración se reserva el derecho a realizar un CK o PKT a aquel usuario que incumpla un punto importante de la normativa. -->
-
+Es importante destacar que la administración se reserva el derecho de modificar la normativa actual, lo que se informará debidamente y por ende, es exclusiva responsabilidad del usuario mantenerse al tanto de dichas modificaciones. 
