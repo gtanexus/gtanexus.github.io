@@ -3,12 +3,12 @@ id: normativa-general
 title: NORMATIVA GENERAL
 sidebar_label: Normativa General
 sidebar_position: 3 #2
-sidebar_class_name: hidden # Eso hace que se oculte la página en el sidebar
+#sidebar_class_name: hidden # Eso hace que se oculte la página en el sidebar
 ---
 
-## Introduction
+## Introducción
 
-Welcome to the Normativa General documentation. This document provides guidelines and rules for the GTANexus community.
+
 
 ## 1. POWERGAMING (PG)
 
@@ -18,6 +18,8 @@ El Powergaming (PG) se define como la realización de actividades en las que se 
     - Subir montañas o estructuras empinadas con vehículos de forma poco realista, lo cual incluye vehículos como Sanchez, camionetas 4x4, entre otros.
     - Usar superdeportivos a alta velocidad en caminos de tierra.
     - Realizar el Bunny Hop, es decir, saltar múltiples veces para aumentar la velocidad del personaje.
+    - Se prohibe rolear cámaras de seguridad que no estén mapeadas en ese lugar.
+    - No estará permitido rolear el uso de una Go-Pro, únicamente se permitirá la excepción de las BodyCam de personajes de LSPD, que se podrán rolear pero deberán estar equipadas visiblemente con la prenda de ropa correspondiente.
 
 ### 1.1. EVASIÓN DE ROLEPLAY
 
@@ -60,6 +62,7 @@ El Metagaming o MG, se refiere al uso indebido de información obtenida fuera de
     - Utilizar conocimientos obtenidos fuera del juego para localizar o interactuar con personajes específicos dentro del juego.
     - Intercambiar información a través de plataformas externas al juego, como Discord, para obtener ventajas en el juego.
     - No se permite el uso de servidores de voz, como Discord, TeamSpeak o Skype, para comunicaciones relacionadas con el juego.
+    - Está totalmente prohibido el traspaso de dinero a otro/s usuario/s al momento de hacerse un CK con la intención de que ese dinero vuelva a tu nuevo personaje o se lo queden otros sin un rol justificable.
 
 ## 3. DEATHMATCH (DM)
 
@@ -136,19 +139,108 @@ Una zona segura es un lugar donde no se podrá realizar ningún acto delictivo q
 - Está estrictamente prohibido utilizar ropa de facción sin pertenecer a la misma o estando fuera de servicio.
 - Cuando se utiliza una máscara (parcial o total), la identidad de la persona no puede ser reconocida. Sin embargo, ciertos detalles como el color del cabello o de los ojos podrían ser perceptibles dependiendo del tipo de máscara, lo que podría levantar sospechas o incluso revelar la identidad del personaje.
 
-## ACTOS DELICTIVOS
-### ROBOS A TIENDAS
-### ROBOS A PERSONAJES
+## 9. ACTOS DELICTIVOS
+### 9.1. ROBOS A TIENDAS
 
-Un robo es un 
+|                                      | Robo a tienda        | Robo a joyería | Robo a casas |
+| :-                                   |:----------:          |:----------:    |:----------:  |
+| **Policías mínimos**                 | 1                    | 6              | 4            |
+| **Atracadores máximos**              | 3                    | 5              | 3            |
+| **Rehenes máximos**                  | Tendero + 2 usuarios | 4 usuarios     | -            |
+| **Tiradores (francotirador)**        | NO                   | 1              | NO           |
+| **Tiradores (pistola, subfusil...)** | 1                    | 1              | 1            |
 
-### SECUESTROS
-### ROLES OFENSIVOS
+- "Atracadores máximos" se refiere tanto a los atracadores que hay dentro de la tienda como fuera (tiradores), por ejemplo, en caso de robar una tienda, podrán ser 3 atracadores dentro o 2 dentro y uno fuera (tirador).
+- Se podrá rolear tener al tendero (vendedor de la tienda) como rehén para negociaciones con la policía.
+- Los tiradores con francotirador también se aplica para la policía.
 
-## CHAT DE VOZ
+### 9.2. ROBOS A PERSONAJES
 
-## RADIO IC
+Un robo es un asalto a un personaje con el propósito de robarle el dinero y los ítems que posee en ese momento. Estos incidentes deben llevarse a cabo en lugares poco transitados.
+    
+    _Requisitos:_
+    - Únicamente se podrá robar utilizando el menú de cacheo "F1" (y con el correspondiente rol).
 
-## ALTAVOZ (BOOMBOX)
+    _Se prohíbe específicamente:_
+    - Está prohibido realizar robos en lugares públicos y cerca de las zonas seguras.
+    - No se podrá robar a usuarios que estén realizando trabajos públicos (basurero, leñador, reciclador, envío de paquetería, piloto, buzo y conductor de autobuses).
+    - Está prohibido llevar a cabo múltiples robos en cadena, es poco realista.
 
-## ABUSO DE SISTEMAS Y BUGS
+|                                      | Robo a personaje  |
+| :-                                   |:----------:       |
+| **Policías mínimos**                 | 1                 |
+| **Atracadores máximos**              | 2 por personaje   |
+| **Tiradores (francotirador)**        | NO                |
+
+    - Se permitirán 2 atracadores por usuario atracado, es decir, si van a atracar a dos usuarios, podrán hacerlo un máximo de 4 atracadores.
+
+### 9.3. SECUESTROS
+
+El secuestro se define como el acto de retener a una persona de manera coercitiva y contra su voluntad, usualmente con el objetivo de exigir un rescate o alguna otra demanda específica a cambio de su liberación. Un secuestro implica la representación ficticia de esta situación mediante la interacción de los personajes de los usuarios, donde uno o varios de ellos retienen al personaje de otro usuario, creando una narrativa que refleje esta acción dentro del juego.
+
+    _Se prohíbe específicamente:_
+    - Queda prohibido matar (hacer PK) al usuario en caso de que coopere.
+    - Está prohibido llevar a cabo múltiples secuestros en cadena, es poco realista.
+    - No se permite retener a un usuario como rehén durante más de 30 minutos, a menos que el usuario secuestrado acepte una extensión de tiempo a través del chat (/ooc).
+    - No se permite hacer un secuestro con menos de 3 policías activos.
+
+### 9.4. ROLES OFENSIVOS
+
+Un rol ofensivo es aquel en el que un jugador interpreta a su personaje de manera agresiva, hostil o provocativa hacia otros personajes dentro del juego. Esto puede implicar acciones como insultos, amenazas, intimidación, violencia física o verbal, y cualquier otra conducta que pueda causar molestia, incomodidad o conflicto entre los personajes. El objetivo de un rol ofensivo puede variar según la narrativa del juego, pero generalmente busca generar tensión, conflicto o drama en la historia del juego. Es importante distinguir entre un rol ofensivo dentro del contexto del juego de roles y comportamientos inapropiados o irrespetuosos fuera del juego.
+
+    _Especificaciones:_
+    - Cualquier rol sexual, provocativos, abusos o violaciones deberán ser aprovados OOC antes de que el rol se efectúe.
+    - Los usuarios y los personajes IC de esos usuarios deberán ser mayores de 18 años.
+    - El usuario que se involucre en cualquier rol sexual, podrá abandonar el mismo aunque préviamente lo haya aceptado.
+    - Los roles relacionados con la necrofilia, zoofilia, pedofilia y canibalismo están completamente prohibidos.
+
+## 10. CHAT DE VOZ
+
+- El chat de voz es considerado IC. Se deberá representar como la voz del personaje y no como la voz real del jugador.
+- No se podrá utilizar el chat de voz para hablar sobre temas OOC a menos que un administrador de la autorización.
+- El chat ooc (/ooc) se utilizará para aclarar situaciones sobre el rol actual y deberá hacerse con respeto, queda prohibido insultar, amenazar de reporte o quejarse.
+- No se permitirá gritar ni saturar el micrófono.
+- No se permite poner música a través del micrófono.
+
+### 10.1. RADIO IC
+
+- El único medio de comunicación radial válido será el ítem de radio IC.
+- Se prohiben plataformas externas (TeamSpeak, Discord...) como uso de radio IC, se considerará MG.
+
+## 11. ABUSO DE SISTEMAS Y BUGS
+
+Se considera abuso de sistemas y bugs cualquier acción por parte de los usuarios que aproveche errores o fallos del juego, así como el uso indebido de funciones o características del servidor para obtener ventajas injustas o provocar daños.
+
+    _Se prohíbe específicamente:_
+    - Queda estrictamente prohibido el uso intencional de errores o fallos del juego para obtener beneficios indebidos.
+    - Está prohibido el uso de cualquier tipo de programa o software externo que altere o manipule el funcionamiento del juego o del servidor.
+    - No se permite el uso de exploits, trucos o tácticas abusivas que afecten negativamente la experiencia de juego de otros usuarios.
+    - Queda prohibida la difusión o explotación de cualquier bug o fallo del juego. Los usuarios deben informar de inmediato a los administradores sobre cualquier error encontrado.
+
+## 12. CORRUPCIÓN Y ROL ILEGAL EN GUBERNAMENTALES
+
+La corrupción es cuando alguien en una posición de autoridad o poder abusa de esa posición para su propio beneficio, haciendo cosas malas o injustas, como aceptar sobornos, tratar de obtener ventajas especiales o usar su influencia para obtener dinero o poder de manera deshonesta.
+**No se permite** la corrupción en ninguna gubernamental (ya sea LSPD o PHMC).
+
+    _Excepciones:_
+    - Se permiten que los usuarios que formen parte de Pillbox Hill Medical Center (PHMC) también formen parte de una banda, mafia o se relacionen con ellos. Estos deberán mantener un rol acorde y encuebierto.
+
+    _Se prohíbe específicamente:_
+    - La venta, traspaso o uso propio de cualquier material gubernamental (tanto de LSPD como PHMC).
+    - Los usuarios que formen parte de la LSPD en ningún caso podrán tener un rol corrupto, exceptuando casos con aprovación administrativa.
+
+## 13. REPORTES
+
+El sistema de reportes está diseñado para garantizar un entorno de juego justo, seguro y respetuoso para todos los usuarios del servidor de roleplay.
+
+    _Procedimiento del reporte:_
+    - Los usuarios pueden realizar reportes mediante el panel IC (/reporte), como el sistema de tickets de Discord [(#⁠📩〡tickets)](https://discord.com/channels/976567619836592248/1043990195214749776/), el chat de soporte o cualquier otro medio establecido por los administradores del servidor.
+    - Los reportes deben incluir información detallada sobre el incidente, incluyendo nombres de usuario involucrados, descripción de la situación y cualquier evidencia relevante, como capturas de pantalla o grabaciones de video.
+    - Todos los reportes serán tratados de manera confidencial y con respeto hacia la privacidad de los usuarios involucrados. Se deberá mantener un lenguaje adecuado en todo momento.
+    - Los usuarios que realicen reportes deben abstenerse de difundir información sobre el reporte o los usuarios involucrados, y deben confiar en el equipo administrativo para manejar la situación de manera adecuada.
+    - Realizar reportes falsos o de mala fe puede resultar en consecuencias para el usuario que los haya presentado, incluyendo sanciones similares a las impuestas por otras violaciones de normas del servidor.
+
+
+:::caution Modificaciones en la Normativa
+
+Es importante destacar que la administración se reserva el derecho de modificar la normativa actual, lo que se informará debidamente y por ende, es exclusiva responsabilidad del usuario mantenerse al tanto de dichas modificaciones. 
