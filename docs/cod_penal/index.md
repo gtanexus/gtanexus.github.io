@@ -91,7 +91,7 @@ Son circunstancias agravantes:
 
 ### CAPÍTULO I – Delitos contra la seguridad vial
 
-#### Artículo 8 Conducción temeraria.
+#### Artículo 1.1. Conducción temeraria.
 
 Acción de conducir vehículos a motor o ciclomotores sin la diligencia debida, sin respetar las normas que regulan la 
 circulación vial, con una imprudencia grave, temeraria, manifiesta y notoria para los ciudadanos. Conllevará multa 
