@@ -334,21 +334,24 @@ para tal fin (Ammu-Nation).
 #### Artículo 4.2. Armas de fuego legales.
 Serán consideradas armas de fuego legales:
 - Pistola cutre SPN
-además de las reglamentarias para el cuerpo policial.
+- Mosquete (sólo para caza y con licencia)
+- Las reglamentarias y exclusivas de uso para el cuerpo policial.
 
 #### Artículo 4.3. Retirada de armas.
 Serán retiradas, junto a la licencia de armas, todas aquellas que posea el civil tras hacer un mal uso de 
 ellas. Quedan exentas las situaciones de los artículos 3.7, 3.8, 3.9 y 3.10.
 
 #### Artículo 4.4. Posesión de armas legales.
-Queda limitada a dos la cantidad de armas legales que pueden portarse.
+Queda limitada a dos la cantidad de armas legales que pueden portarse. Llevar tres armas o más será penado con una multa económica de
+$7.500 y la retirada de todas.
 
 #### Artículo 4.5. Posesión ilegal de armas de fuego.
-La posesión de armas sin licencia será penada con $10.000 de multa y la retirada de las mismas.
+La posesión de armas sin licencia o de uso policial será penada con $10.000 de multa y la retirada de las mismas.
 
 #### Artículo 4.6. Posesión de armas de fuego ilegales.
 La posesión de armas ilegales (civiles) será penada en función del calibre de la misma, con 10 meses de prisión,
 además de su retirada. Se clasificarán, por unidad, de la siguiente forma:
+- Pistola: $10.000.
 - Pistola pesada: $25.000.
 - Pistola desert eagle: $30.000.
 - Pistola ametralladora: $40.000.
@@ -362,26 +365,30 @@ además de su retirada. Se clasificarán, por unidad, de la siguiente forma:
 - Francotirador: $90.000.
 
 #### Artículo 4.7. Posesión de armas blancas legales.
-Serán consideradas como armas blancas legales:
-- Navaja con una hoja inferior a 15 cm.
-- Cuchillo
-- Bate
+Quedan limitadas a dos la cantidad de armas blancas legales que pueden portarse. Llevar tres armas o más será penado con una multa económica de $2.500 y la retirada de todas. Serán consideradas como armas blancas legales:
+- Cuchillo.
+- Bate.
+- Martillo.
 
 #### Artículo 4.8. Posesión de armas blancas ilegales.
-La posesión de armas blancas de forma ilegal será sancionada con $25.000 por unidad y su retirada.
+La posesión de armas blancas de forma ilegal será sancionada con $2.000 por unidad y su retirada.
 
 #### Artículo 4.9. Contrabando.
-La posesión de 3 o más armas será considerada como contrabando. Todo aquel que sea detenido en estas 
-circunstancias será sancionado con $160.000 y 25 meses de prisión, además de la incautación de las mismas.
+La posesión de 6 o más armas, ya sean legales o ilegales, será considerada como contrabando. Todo aquel que sea detenido en estas 
+circunstancias será sancionado con $40.000 y 20 meses de prisión, además de la incautación de las mismas, además de la retirada de la licencia de armas en caso de tenerla.
 
 #### Artículo 4.10. Tráfico de armas.
-Todo aquel que sea detenido en una operación de intercambio, compra o venta de armas será juzgado como traficante 
-de armas, con una multa económica de $240.000, 35 meses de prisión y la incautación de las mismas.
+Todo aquel que sea detenido en una operación de intercambio, compra o venta de armas (ya sea legales o ilegales) será juzgado como traficante 
+de armas, con una multa económica de $60.000, 30 meses de prisión y la incautación de las mismas, además de la retirada de la licencia de armas en caso de tenerla.
 
 #### Artículo 4.11. Exhibición o uso de armas en vía pública.
-- **Artículo 4.11.1.** Con licencia sin justificación válida: retirada del arma y licencia.
-- **Artículo 4.11.2.** Sin licencia: retirada del arma, $50.000 de multa y 15 meses de prisión
-- **Artículo 4.11.3.** Arma ilegal: lo reflejado en el artículo 58.
+- **Artículo 4.11.1.** Exhibición de arma con licencia sin justificación válida: retirada del arma.
+- **Artículo 4.11.2.** Exhibición de arma sin licencia: retirada del arma y $10.000 de multa.
+- **Artículo 4.11.3.** Exhibición de arma ilegal: lo reflejado en el artículo 58.
+- **Artículo 4.11.4.** Con licencia sin justificación válida: retirada del arma y licencia.
+- **Artículo 4.11.5.** Sin licencia: retirada del arma, $50.000 de multa y 15 meses de prisión
+- **Artículo 4.11.6.** Arma ilegal: lo reflejado en el artículo 58.
+
 
 ### CAPÍTULO V - Delitos contra la salud publica
 
@@ -499,6 +506,9 @@ meses en adelante en la Prisión Federal.
 ### Motivos atenuantes y agravantes
 Queda a criterio del mando en servicio el tiempo de reducción o ampliación de condenas en base a los motivos
 expuestos en los artículos reflejados en los Capítulos II, III y IV.
+
+### Aplicación de artículos de igual naturaleza
+En caso de haber similitud entre la naturaleza de dos artículos del Código Penal y no esté recogido específicamente, se aplicará el más grave.
 
 ### Delitos de atracos a establecimientos y redadas a puntos de droga
 Como aclaración, se expone que los delitos tipificados de los artículos 49, 50, 51, 52 y 68 irán en conjunto por lo que no
