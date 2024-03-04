@@ -405,10 +405,10 @@ La posesión de las mismas será castigada en base los artículos 5.2 y 5.3, ade
 
 #### Artículo 5.2. Posesión de sustancias ilegales
 -  **Artículo 5.2.1.** Hoja de coca, amapolas, químicos o ácidos: aquella persona que se encuentre en posesión de alguna de estas sustancias será multada con 100$/unidad. La posesión a partir de 10 unidades conllevará una pena de 10 meses de prisión.
--  **Artículo 5.2.2.** Cocaína, heroína, metanfetamina, marihuana o LSD: aquella persona que se encuentre en posesión de opio, metanfetamina o cocaína será multada con 300 $/unidad. La posesión a partir de 1 unidad conllevará una pena de 20 meses de prisión.
+-  **Artículo 5.2.2.** Cocaína, heroína, metanfetamina, marihuana o LSD: aquella persona que se encuentre en posesión de opio, metanfetamina o cocaína será multada con 300$/unidad. La posesión a partir de 1 unidad conllevará una pena de 20 meses de prisión.
 
 #### Artículo 5.3. Posesión de sustancias ilegales – marihuana o cannabis.
-Queda permitida la posesión de marihuana hasta 3 unidades como consumo propio. La posesión desde 4 unidades conllevará multa de 250 $/unidad y 10 meses de prisión.
+Queda permitida la posesión de marihuana hasta 3 unidades como consumo propio. La posesión desde 4 unidades conllevará multa de 50$/unidad y 10 meses de prisión.
 
 #### Artículo 5.4. Contrabando.
 Todo aquel que sea detenido comprando o vendiendo sustancias ilegales en vía pública será penado con $8.000 de 
@@ -416,7 +416,7 @@ multa y 10 meses de prisión.
 
 #### Artículo 5.5. Tráfico de drogas.
 Todo aquel que sea detenido en una operación de intercambio, compra o venta y/o recolectando y procesando 
-sustancias ilícitas será juzgado como traficante de drogas, con una multa económica de $120.000, 35 meses de prisión 
+sustancias ilícitas será juzgado como traficante de drogas, con una multa económica de $80.000, 35 meses de prisión 
 y la incautación de las mismas.
 
 ### CAPÍTULO VI - Delitos de blanqueo de capitales.
@@ -434,9 +434,9 @@ el agente justifique que puedan o hayan sido utilizados para cometer actos delic
 
 #### Artículo 6.4. Blanqueo de capitales.
 Todo aquel que sea detenido en una operación de blanqueo de capitales será juzgado con una multa económica de 
-$780.000, 35 meses de prisión y la incautación de todo el dinero ilegal que posea.
+$30.000, 20 meses de prisión y la incautación de todo el dinero ilegal que posea.
 
-### CAPÍTULO VII - Delitos contra el estado.
+### CAPÍTULO VII - Delitos contra el estado y sus funcionarios.
 
 #### Artículo 7.1. Agresión verbal.
 El que ejerza, por medio del lenguaje verbal, la violencia, pretendiendo hacer daño a un agente con un mensaje o un 
@@ -450,7 +450,7 @@ una pena de prisión de 15 a 20 meses.
 
 #### Artículo 7.3. Intento de soborno.
 Aquellos que intentaren beneficiarse de alguna acción ofreciendo dinero u por medio de otro método a un agente en el 
-ejercicio de sus funciones, serán castigados con $15.000.
+ejercicio de sus funciones, serán castigados con $10.000.
 
 #### Artículo 7.4. Obstrucción a la justicia.
 Aquellos que no colaboraren con la justicia o los agentes en el ejercicio de sus funciones serán penados con $9.000.
@@ -458,47 +458,41 @@ Aquellos que no colaboraren con la justicia o los agentes en el ejercicio de sus
 #### Artículo 7.5. Atentado a la autoridad.
 Son reos de atentado los que agredieren o, con intimidación grave o violencia, opusieren resistencia grave a la autoridad, 
 a sus agentes o funcionarios públicos, o los acometieren, cuando se hallen en el ejercicio de las funciones de sus 
-cargos o con ocasión de ellos. Los atentados serán castigados con multas de $20.000 a $50.000 y prisión de 10 a 20 
+cargos o con ocasión de ellos. Los atentados serán castigados con multas de $20.000 a $50.000 y prisión de 20 a 30 
 meses.
 
 #### Artículo 7.6. Intento o secuestro.
 El secuestro de un agente de policía, ya sea fuera o en servicio, exigiendo alguna condición para ponerla en libertad, 
-será castigado con la pena de prisión de 40 meses.
+será castigado con una multa económica de $20.000 y la pena de prisión de 30 meses.
 
 #### Artículo 7.7. Robo con violencia o intimidación.
 Son reos del delito de robo a un agente de policía los que se emplea violencia o intimidación en las personas, sea al 
 cometer el delito, para proteger la huida, o sobre los que acudiesen en auxilio de la víctima o que le persiguieren. Será 
-castigado con $20.000 de multa y 25 meses de prisión.
+castigado con $30.000 de multa y 35 meses de prisión.
 
-#### Artículo 7.8. Intento de homicidio.
+#### Artículo 7.8. Intento de homicidio (PK).
 El que, por cualquier medio o procedimiento, intentare causar la muerte de un agente, será castigado como reo del 
-delito de intento de homicidio con una multa económica de $190.000 y una pena de prisión de 25 a 30 meses.
+delito de intento de homicidio con una multa económica de $50.000 y una pena de prisión de 30 meses.
 
-#### Artículo 7.9. Homicidio doloso.
+#### Artículo 7.9. Homicidio doloso (CK).
 El que, por cualquier medio o procedimiento, causare la muerte de un agente de forma voluntaria e intencionada, será 
-castigado como reo del delito de homicidio con una multa económica de $220.000 y una pena de prisión de 30 a 50 
-meses.
+castigado como reo del delito de homicidio con una multa económica de $75.000 y una pena de cadena perpetua.
 
-#### Artículo 7.10. Homicidio involuntario.
+#### Artículo 7.10. Homicidio involuntario (CK).
 El que, por cualquier medio o procedimiento, causare la muerte de un agente de forma involuntaria, será castigado 
-como reo del delito de homicidio imprudente con una multa económica de $290.000 y una pena de prisión de 20 a 25 
-meses.
+como reo del delito de homicidio imprudente con una multa económica de $100.000 y una pena de cadena perpetua.
 
-#### Artículo 7.11. Asesinato.
+#### Artículo 7.11. Asesinato (CK).
 El que, por cualquier medio o procedimiento, causare la muerte de otro de forma voluntaria, con alevosía, ensañamiento, 
 concurrencia de precio, recompensa o promesa o facilitar la comisión de otro delito o evitar que se descubra, será 
-castigado como reo del delito de asesinato con una multa económica de $320.000 y una pena de prisión de 40 a 60
-meses.
+castigado como reo del delito de asesinato con una multa económica de $320.000 y una pena de cadena perpetua.
 
 #### Artículo 7.12. Cadena perpetua.
 Aquel que reincidiera en los artículos 7.6, 7.7, 7.8, 7.9 y 7.10 en cinco o más ocasiones (fuera de rol de atracos) será 
 condenado a cadena perpetua.
 
-## TÍTULO II – DISPOSICIONES FINALES
-### Impago de multas
-Se establece la cantidad de 120.000 $ como límite acumulativo en multas. En caso de alcanzar esa cifra, el reo tendrá
-48 h. para proceder al pago total de dicha cantidad, de lo contrario será penado con cadena perpetua revisable.
 
+## TÍTULO II – DISPOSICIONES FINALES
 ### Cumplimiento de condenas
 Se establece la cantidad de 1 a 29 meses para el cumplimiento de condenas en los calabozos de Comisaría y de 30
 meses en adelante en la Prisión Federal.
@@ -521,6 +515,7 @@ todos los hechos punibles que se cometan a partir de su vigencia.
 ### Reformas
 El presente Código podrá ser reformado en cualquier momento y cualquier modificación será anunciada en el «Boletín
 Oficial del Estado» y se aplicará a todos los hechos punibles que se cometan a partir de su vigencia.
+
 :::caution MODIFICACIONES EN CODIGO PENAL
 El presente Código podrá ser reformado en cualquier momento y te recomendamos estar al tanto de cualquier modificación y se aplicará a todos los hechos punibles que se cometan a partir de su vigencia.
 ::: 
