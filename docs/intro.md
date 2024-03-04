@@ -4,7 +4,7 @@ title: Documentación
 sidebar_position: 1
 ---
 
-# Documentación de GTA NEXUS A
+# Documentación de GTA NEXUS
 
 Bienvenido a la documentación oficial del servidor de roleplay GTA NEXUS. Aquí encontrarás información detallada sobre las reglas, características, mecánicas y otros aspectos importantes del servidor.
 
