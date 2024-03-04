@@ -369,9 +369,10 @@ Quedan limitadas a dos la cantidad de armas blancas legales que pueden portarse.
 - Cuchillo.
 - Bate.
 - Martillo.
+- Las reglamentarias y exclusivas para el cuerpo policial.
 
 #### Artículo 4.8. Posesión de armas blancas ilegales.
-La posesión de armas blancas de forma ilegal será sancionada con $2.000 por unidad y su retirada.
+La posesión de armas blancas de forma ilegal o de uso policial será sancionada con $2.000 por unidad y su retirada.
 
 #### Artículo 4.9. Contrabando.
 La posesión de 6 o más armas, ya sean legales o ilegales, será considerada como contrabando. Todo aquel que sea detenido en estas 
@@ -382,32 +383,31 @@ Todo aquel que sea detenido en una operación de intercambio, compra o venta de 
 de armas, con una multa económica de $60.000, 30 meses de prisión y la incautación de las mismas, además de la retirada de la licencia de armas en caso de tenerla.
 
 #### Artículo 4.11. Exhibición o uso de armas en vía pública.
-- **Artículo 4.11.1.** Exhibición de arma con licencia sin justificación válida: retirada del arma.
+- **Artículo 4.11.1.** Exhibición de arma legal con licencia sin justificación válida: retirada del arma.
 - **Artículo 4.11.2.** Exhibición de arma sin licencia: retirada del arma y $10.000 de multa.
 - **Artículo 4.11.3.** Exhibición de arma ilegal: lo reflejado en el artículo 58.
-- **Artículo 4.11.4.** Con licencia sin justificación válida: retirada del arma y licencia.
-- **Artículo 4.11.5.** Sin licencia: retirada del arma, $50.000 de multa y 15 meses de prisión
-- **Artículo 4.11.6.** Arma ilegal: lo reflejado en el artículo 58.
+- **Artículo 4.11.4.** Uso de arma legal con licencia sin justificación válida: retirada del arma, $5.000 y licencia.
+- **Artículo 4.11.5.** Uso de arma legal sin licencia: retirada del arma, $30.000 de multa y 15 meses de prisión
+- **Artículo 4.11.6.** Uso de arma ilegal: lo reflejado en el artículo 4.6 + $10.000.
 
 
 ### CAPÍTULO V - Delitos contra la salud publica
 
 #### Artículo 5.1. Sustancias ilegales.
 Son consideradas sustancias ilegales:
-- Cocaína
-- Heroína
-- Metanfetamina
-- Marihuana
-- LSD
+- Cocaína o hoja de coca
+- Heroína o amapolas
+- Metanfetamina o químicos
+- Marihuana o cannabis
+- LSD o ácidos
 
 La posesión de las mismas será castigada en base los artículos 5.2 y 5.3, además del derecho a la incautación de las mismas en todas las situaciones.
 
 #### Artículo 5.2. Posesión de sustancias ilegales
-- Cocaína, opio, metanfetamina, marihuana.
-Aquella persona que se encuentre en posesión de opio, metanfetamina o cocaína será multada con 500 $/unidad. La 
-posesión desde 10 hasta 100 unidades conllevará una pena de 10 meses de prisión.
+-  **Artículo 5.2.1.** Hoja de coca, amapolas, químicos o ácidos: aquella persona que se encuentre en posesión de alguna de estas sustancias será multada con 100$/unidad. La posesión a partir de 10 unidades conllevará una pena de 10 meses de prisión.
+-  **Artículo 5.2.2.** Cocaína, heroína, metanfetamina, marihuana o LSD: aquella persona que se encuentre en posesión de opio, metanfetamina o cocaína será multada con 300 $/unidad. La posesión a partir de 1 unidad conllevará una pena de 20 meses de prisión.
 
-#### Artículo 5.3. Posesión de sustancias ilegales – marihuana.
+#### Artículo 5.3. Posesión de sustancias ilegales – marihuana o cannabis.
 Queda permitida la posesión de marihuana hasta 3 unidades como consumo propio. La posesión desde 4 unidades conllevará multa de 250 $/unidad y 10 meses de prisión.
 
 #### Artículo 5.4. Contrabando.
