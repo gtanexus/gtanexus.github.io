@@ -99,7 +99,7 @@ económica de $3.000 y 10 meses de prisión. Asimismo, la reincidencia de este a
 conllevará la retirada de la licencia de conducir.
 
 
-#### Artículo 9 Conducir bajo los efectos del alcohol o drogas.
+#### Artículo 1.2. Conducir bajo los efectos del alcohol o drogas.
 
 Conducir, operar o tener el control de un vehículo motorizado mientras está afectado por el alcohol u otras drogas, 
 hasta un nivel que hace que el conductor sea incapaz de operar un vehículo motorizado de manera segura. Conllevará 
