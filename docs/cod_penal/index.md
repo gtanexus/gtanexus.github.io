@@ -321,6 +321,10 @@ clasificados, según el procedimiento, en los siguientes artículos:
 - **Artículo 3.10.2.** No negociado: el reo será condenado con $35.000 de multa y 30 meses de prisión.
 - **Artículo 3.10.3.** Con bloqueo y/o emboscada: el reo será condenado con $40.000 de multa y 35 meses de prisión.
 
+#### Artículo 3.11. Robo a casas.
+Este artículo ya incluye cualesquiera de los artículos descritos en todos los Capítulos de este Código Penal. Conllevará multa económica
+de $7.500 y pena de prisión de 10 meses.
+
 ### CAPÍTULO IV - Delitos de armas
 
 #### Artículo 4.1. Armas de fuego ilegales.
@@ -340,22 +344,22 @@ ellas. Quedan exentas las situaciones de los artículos 3.7, 3.8, 3.9 y 3.10.
 Queda limitada a dos la cantidad de armas legales que pueden portarse.
 
 #### Artículo 4.5. Posesión ilegal de armas de fuego.
-La posesión de armas sin licencia será penada con $80.000 de multa y la retirada de las mismas.
+La posesión de armas sin licencia será penada con $10.000 de multa y la retirada de las mismas.
 
 #### Artículo 4.6. Posesión de armas de fuego ilegales.
 La posesión de armas ilegales (civiles) será penada en función del calibre de la misma, con 10 meses de prisión,
 además de su retirada. Se clasificarán, por unidad, de la siguiente forma:
-- Pistola pesada: $90.000.
-- Pistola desert eagle: $95.000.
-- Pistola ametralladora: $150.000.
-- Mini SMG: $135.000.
-- SMG de asalto: $165.000.
-- Escopetas: $180.000.
-- Rifle de asalto (AK-47): $180.000.
-- Carabina: $250.000.
-- Rifle avanzado: $300.000.
-- Carabina especial: $350.000.
-- Francotirador: $700.000.
+- Pistola pesada: $25.000.
+- Pistola desert eagle: $30.000.
+- Pistola ametralladora: $40.000.
+- Mini SMG: $50.000.
+- SMG de asalto: $55.000.
+- Escopetas: $40.000.
+- Rifle de asalto (AK-47): $70.000.
+- Carabina: $70.000.
+- Rifle avanzado: $80.000.
+- Carabina especial: $85.000.
+- Francotirador: $90.000.
 
 #### Artículo 4.7. Posesión de armas blancas legales.
 Serán consideradas como armas blancas legales:
