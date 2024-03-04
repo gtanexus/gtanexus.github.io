@@ -8,7 +8,7 @@ Muy pronto estará disponible para su visualización
 
 # Código Penal Federal Del Estado De San Andreas
 ## Título Preliminar
-### CAPÍTULO I - Garantías y de la aplicación de la ley penal
+### CAPÍTULO I - Garantías de la aplicación de la ley penal
 
 El Código Penal define los delitos y faltas que constituyen los presupuestos de la aplicación de la forma suprema que puede revestir el poder coactivo del Estado: la pena criminal. El Código Penal ha de tutelar los valores y principios básicos de convivencia social. Cuando esos valores y principios cambian, debe también cambiar.
 
