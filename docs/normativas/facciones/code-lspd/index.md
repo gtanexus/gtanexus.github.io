@@ -18,7 +18,7 @@ sidebar_position: 1
 ### 3. Acceso al Cuerpo LSPD
 
 <!-- - 3.1. Para poder acceder al LSPD se deberán cumplir los siguientes requisitos: -->
-- 3.1.1. Edad mínima OOC de 17 años.
+- 3.1.1. Edad mínima OOC de 16 años.
 - 3.1.2. Prueba oral a través de entrevista. Cualquier examen con sospechas o pruebas de copia será dado por finalizado al momento con la imposibilidad de volver a presentarse.
 - 3.1.3. Periodo de prueba en el Cuerpo como Policía alumno.
 
@@ -59,7 +59,7 @@ Lo siguiente son requisitos "**opcionales** que se definirá a criterio del **je
 
 - 10.1. El Departamento de Policía de San Andreas se divide en diferentes organismos y agencias, algunas de ellas incluidas dentro de los principales cuerpos policiales.
 
-- 10.2. Los Santos Police Deparment (LSPD): el LSPD tiene jurisdicción sobre la ciudad de Los Santos, que es la principal área urbana. Su enfoque principal es mantener la seguridad y el orden en un entorno urbano y densamente poblado.
+- 10.2. SPECIAL WEAPONS AND TACTICS (S.W.A.T.): Esta división es referida a unidades entrenadas y equipadas para abordar situaciones tácticas de alto riesgo. Estas unidades están diseñadas para intervenir en situaciones que van más allá de las capacidades de los oficiales de policía regulares y que pueden involucrar amenazas graves a la seguridad pública.
 
 - 10.3. Blaine County Sheriff Office (BCSO): el BCSO tiene jurisdicción sobre el condado de Blaine, que abarca áreas rurales, pequeños pueblos y zonas menos urbanizadas. Su enfoque principal es mantener la seguridad y el orden en estas comunidades (actualmente inoperativo).
 
