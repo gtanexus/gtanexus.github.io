@@ -59,15 +59,19 @@ Lo siguiente son requisitos "**opcionales** que se definirá a criterio del **je
 
 - 10.1. El Departamento de Policía de San Andreas se divide en diferentes organismos y agencias, algunas de ellas incluidas dentro de los principales cuerpos policiales.
 
-- 10.2. SPECIAL WEAPONS AND TACTICS (S.W.A.T.): Esta división es referida a unidades entrenadas y equipadas para abordar situaciones tácticas de alto riesgo. Estas unidades están diseñadas para intervenir en situaciones que van más allá de las capacidades de los oficiales de policía regulares y que pueden involucrar amenazas graves a la seguridad pública.
+- 10.2. SPECIAL WEAPONS AND TACTICS (S.W.A.T.): esta división es referida a unidades entrenadas y equipadas para abordar situaciones tácticas de alto riesgo. Estas unidades están diseñadas para intervenir en situaciones que van más allá de las capacidades de los oficiales de policía regulares y que pueden involucrar amenazas graves a la seguridad pública.
 
-- 10.3. Blaine County Sheriff Office (BCSO): el BCSO tiene jurisdicción sobre el condado de Blaine, que abarca áreas rurales, pequeños pueblos y zonas menos urbanizadas. Su enfoque principal es mantener la seguridad y el orden en estas comunidades (actualmente inoperativo).
+- 10.3. DRUG OBSERVATION ADMINISTRATION (D.O.A.): la Administración para el Control de Drogas (Drug Observation Administration o D.O.A.) es una división del Departamento de Policía de Los Santos, y su función principal es la aplicación de las leyes relacionadas con el control y tráfico de sustancias controladas y narcóticos
 
-- 10.4. Federal Investigation Bureau (FIB): el FIB es una agencia federal de investigación encargada de abordar delitos graves a nivel federal. Se ocupa de una amplia gama de delitos, incluidos crímenes organizados, terrorismo y otros delitos federales.
+- 10.4. LOS SANTOS POLICE DEPARTMENT METRO DIVISION (LSPD METRO DIVISION): la Metro Division del Departamento de Policía de Los Santos (LSPD Metro Division) es una unidad especializada encargada de abordar situaciones tácticas de alto riesgo y la investigación y resolución de crímenes graves en la ciudad de Los Santos.
 
-- 10.5. San Andreas Highway Patrol (SAHP): La SAHP se especializa en la aplicación de la ley en carreteras y autopistas. Su jurisdicción abarca áreas rurales, suburbanas y urbanas, centrándose en mantener la seguridad en las carreteras y responder a incidentes en estas áreas (actualmente inoperativo).
+- 10.5. TRAFFIC DIVISION: la división de tráfico del Departamento de Policía de Los Santos es una unidad especializada encargada de hacer cumplir las leyes de tránsito, garantizar la seguridad vial y manejar situaciones relacionadas con el tráfico en la ciudad.
 
-- 10.6. National Office of Security Enforcement (NOOSE): NOOSE es una unidad especializada que opera a nivel nacional y se especializa en la respuesta táctica a situaciones de alto riesgo. Su enfoque principal es abordar amenazas que van más allá de la jurisdicción de las fuerzas policiales locales (actualmente inoperativo).
+- 10.6. AIR SUPPORT DIVISION: la División de Apoyo Aéreo (Air Support Division) en un departamento policial que se enfoca en el uso estratégico de recursos aéreos para mejorar la efectividad de las operaciones policiales.
+
+- 10.7. POLICE ACADEMY: la Police Academy de Los Santos es una institución de formación policial que prepara a los futuros agentes para el Departamento de Policía de Los Santos (LSPD).
+
+- 10.8. INTERNAL AFFAIRS AGENCY (I.A.A.): la Internal Affairs Agency (Brigada de Asuntos Internos) es una rama especializada dentro de las agencias de aplicación de la ley que se encarga de investigar conductas indebidas, violaciones éticas y casos de corrupción dentro de la propia agencia.
 
 ### 11. Uniformidad
 
@@ -99,15 +103,14 @@ Lo siguiente son requisitos "**opcionales** que se definirá a criterio del **je
 
 - 14.1. En base a los eventos, amenazas u otros motivos, el ministro del Interior decretará los siguientes niveles:
   
-- Nivel 1 – alerta verde: existe cierto nivel de amenaza para los usuarios y sistemas. No obstante, los procedimientos de trabajo y vigilancia serán los habituales. Se podrán registrar a civiles y maleteros siempre y cuando la policía tenga indicios o se haya cometido un delito. El equipamiento reglamentario será chaleco antibalas, porra, táser y pistola de combate o desert eagle.
+- Nivel 1 – alerta azul: existe cierto nivel de amenaza para los usuarios y sistemas. No obstante, los procedimientos de trabajo y vigilancia serán los habituales. Se podrán registrar a civiles y maleteros siempre y cuando la policía tenga indicios o se haya cometido un delito. El equipamiento reglamentario será chaleco antibalas, porra, táser y pistola de combate o desert eagle.
 
-- Nivel 2 – alerta amarilla: existe una amenaza que podría tener un impacto significativo en los sistemas. Se deberá incrementar la vigilancia. Se podrán registrar a civiles y maleteros siempre. El equipamiento reglamentario será chaleco antibalas, porra, táser, pistola de combate y pistola ametralladora.
+- Nivel 2 – alerta verde: existe una amenaza que podría tener un impacto significativo en los sistemas. Se deberá incrementar la vigilancia. Se podrán registrar a civiles y maleteros siempre. El equipamiento reglamentario será chaleco antibalas, porra, táser, pistola de combate y pistola ametralladora.
 
 - Nivel 3 – alerta naranja: existe una amenaza conocida que tiene un impacto en los sistemas. En caso de peligro de un civil o agente, se autoriza al uso del arma sin previo aviso. Se podrán registrar a civiles y maleteros siempre. El equipamiento reglamentario será porra, táser, pistola desert eagle, pistola ametralladora y escopeta.
 
 - Nivel 4 – alerta roja: un importante ataque se está produciendo y afecta de manera directa a instituciones. Se aumenta la vigilancia y la respuesta de los Equipos, además de movilizar a todo el personal disponible, al grupo SWAT con posibilidad de abrir fuego sin previo aviso. Se podrán registrar a civiles y maleteros siempre. El equipamiento reglamentario será porra, táser, pistola desert eagle, pistola ametralladora y carabina especial.
 
-- Nivel 5 – alerta azul: este nivel se decretará cuando se realice un traslado de dinero hacia un banco o un preso importante hacia prisión federal. Se movilizará al grupo NOOSE y el equipamiento reglamentario será porra, táser, pistola desert eagle, pistola ametralladora, carabina especial o escopeta y francotirador.
 
 :::caution MODIFICACIONES EN NORMATIVA DE LSPD
 Esta normativa puede ser modificada, le recomendamos estar semanalmente al tanto de los cambios.
