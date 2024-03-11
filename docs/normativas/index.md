@@ -171,11 +171,11 @@ Un robo es un asalto a un personaje con el propósito de robarle el dinero y los
     - No se podrá robar a usuarios que estén realizando trabajos públicos (basurero, leñador, reciclador, envío de paquetería, piloto, buzo y conductor de autobuses).
     - Está prohibido llevar a cabo múltiples robos en cadena, es poco realista.
 
-|                                      | Robo a personaje  |
-| :-                                   |:----------:       |
-| **Policías mínimos**                 | 1                 |
-| **Atracadores máximos**              | 2 por personaje   |
-| **Tiradores (francotirador)**        | NO                |
+|                                      | Robo a personaje |
+| :-                                   |:----------:      |
+| **Policías mínimos**                 | 1                |
+| **Atracadores máximos**              | 2 por personaje  |
+| **Tiradores (francotirador)**        | NO               |
 
     - Se permitirán 2 atracadores por usuario atracado, es decir, si van a atracar a dos usuarios, podrán hacerlo un máximo de 4 atracadores.
 
@@ -198,6 +198,14 @@ Un rol ofensivo es aquel en el que un jugador interpreta a su personaje de maner
     - Los usuarios y los personajes IC de esos usuarios deberán ser mayores de 18 años.
     - El usuario que se involucre en cualquier rol sexual, podrá abandonar el mismo aunque préviamente lo haya aceptado.
     - Los roles relacionados con la necrofilia, zoofilia, pedofilia y canibalismo están completamente prohibidos.
+
+### 9.5. VENTA DE DROGAS
+
+Se aplica a la venta de drogas a NPCs:
+
+|                                      | Venta de droga    |
+| :-                                   |:----------:       |
+| **Policías mínimos**                 | 1                 |
 
 ## 10. CHAT DE VOZ
 
