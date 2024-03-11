@@ -1,18 +1,14 @@
 ---
-id: normativas
+id: normativa
 title: NORMATIVA GENERAL
-sidebar_label: Normativas
+sidebar_label: Normativa General
 sidebar_position: 2 #2
 #sidebar_class_name: hidden # Eso hace que se oculte la página en el sidebar
 ---
 
 ## Introducción
 
-En nuestro servidor de roleplay, la comunidad es el pilar fundamental para mantener un ambiente de juego justo, seguro y respetuoso. Para garantizar la integridad y el bienestar de todos los usuarios, hemos establecido esta normativa sobre reportes a otros usuarios. Esta guía detalla el proceso para presentar reportes, los tipos de situaciones que pueden ser reportadas, así como las acciones que se tomarán en respuesta a dichos reportes. Creemos firmemente en la importancia de mantener una comunidad libre de comportamientos inapropiados y violaciones de las normas, y alentamos a todos los usuarios a utilizar este sistema de manera responsable y colaborativa para mantener un entorno de juego positivo para todos.
 
-<div style={{textAlign: 'center'}}>
-  <img src="https://i.imgur.com/2rHpcJb.png" />
-</div>
 
 ## 1. POWERGAMING (PG)
 
@@ -142,7 +138,6 @@ Una zona segura es un lugar donde no se podrá realizar ningún acto delictivo q
 - Queda terminantemente prohibido provocar intencionalmente que el cuerpo del personaje sea invisible mediante el abuso de bugs relacionados con la ropa.
 - Está estrictamente prohibido utilizar ropa de facción sin pertenecer a la misma o estando fuera de servicio.
 - Cuando se utiliza una máscara (parcial o total), la identidad de la persona no puede ser reconocida. Sin embargo, ciertos detalles como el color del cabello o de los ojos podrían ser perceptibles dependiendo del tipo de máscara, lo que podría levantar sospechas o incluso revelar la identidad del personaje.
-- Queda prohibido el uso de casco en un rol agresivo con fin de obtener un beneficio abusando del mismo (sujeto a interpretación de personaje).
 
 ## 9. ACTOS DELICTIVOS
 ### 9.1. ROBOS A TIENDAS
@@ -228,24 +223,13 @@ La corrupción es cuando alguien en una posición de autoridad o poder abusa de 
 **No se permite** la corrupción en ninguna gubernamental (ya sea LSPD o PHMC).
 
     _Excepciones:_
-    - Se permiten que los usuarios que formen parte de Pillbox Hill Medical Center (PHMC) también formen parte de una banda, mafia o se relacionen con ellos. Estos deberán mantener un rol acorde y encuebierto, pero no podrán ser corruptos (por ejemplo, para regalar suministros médicos).
-    - Los mecánicos y taxistas no se consideran gubernamentales, por lo que podrán estar relacionados con el rol ilegal.
+    - Se permiten que los usuarios que formen parte de Pillbox Hill Medical Center (PHMC) también formen parte de una banda, mafia o se relacionen con ellos. Estos deberán mantener un rol acorde y encuebierto.
 
     _Se prohíbe específicamente:_
     - La venta, traspaso o uso propio de cualquier material gubernamental (tanto de LSPD como PHMC).
-    - Los usuarios que formen parte de la LSPD y PHMC en ningún caso podrán tener un rol corrupto, exceptuando casos con aprobación administrativa.
+    - Los usuarios que formen parte de la LSPD en ningún caso podrán tener un rol corrupto, exceptuando casos con aprovación administrativa.
 
-## 13. USO DE ARMAS EN VEHÍCULOS
-
-    _Se prohíbe específicamente:_
-    - **Disparar a matar** desde cualquier vehículo, sin importar si somos conductores o acompañantes.
-    - Disparar siendo el conductor, tanto en moto como en coche.
-
-    _Excepciones:_
-    - Únicamente podrán disparar **a pinchar ruedas** los acompañantes del vehículo.
-    - Se podrá disparar a pinchar rueda.
-
-## 14. REPORTES
+## 13. REPORTES
 
 El sistema de reportes está diseñado para garantizar un entorno de juego justo, seguro y respetuoso para todos los usuarios del servidor de roleplay.
 
@@ -256,22 +240,7 @@ El sistema de reportes está diseñado para garantizar un entorno de juego justo
     - Los usuarios que realicen reportes deben abstenerse de difundir información sobre el reporte o los usuarios involucrados, y deben confiar en el equipo administrativo para manejar la situación de manera adecuada.
     - Realizar reportes falsos o de mala fe puede resultar en consecuencias para el usuario que los haya presentado, incluyendo sanciones similares a las impuestas por otras violaciones de normas del servidor.
 
-    _Se prohíbe específicamente:_
-    - No se permitirá detener un rol para reportar al/los usuario/s. Deberás terminar el rol y tras ello realizar el reporte aportando las evidencias gráficas. En caso de poder reportar sin pausar el rol, si que será aceptado.
-
-## 15. ADMINISTRACIÓN
-
-- La normativa queda exclusivamente a interpretación del STAFF del servidor, velando siempre por el Fairplay, la buena fe y el correcto desarrollo del rol.
-- La administración del servidor se reserva el derecho de admisión y permanencia de todos los miembros del mismo, siendo quien decide así su acceso e incluso las sanciones asignadas durante la estadía.
-- Buscar huecos o vacíos en cualquier normativa del servidor no está permitido y será sancionable.
-- Cualquier actitud que exclusivamente busque una ventaja en PVP mediante mecánicas del juego usadas de forma ilógica será sancionable y quedará completamente sujeto a interpretación del STAFF. (Ej. Quitar zapatos durante roles agresivos, abuso de animaciones o /suelo, uso abusivo de tercera persona…). _Ver [11. ABUSO DE SISTEMAS Y BUGS](#11-abuso-de-sistemas-y-bugs)_.
-- Si el Staff considera que el reporte no se está utilizando con el fin de querer corregir conductas negativas y se entiende que se está utilizando para atacar a otro jugador, podría considerarse una actitud negativa y será sancionado.
-
 
 :::caution Modificaciones en la Normativa
 
 Es importante destacar que la administración se reserva el derecho de modificar la normativa actual, lo que se informará debidamente y por ende, es exclusiva responsabilidad del usuario mantenerse al tanto de dichas modificaciones. 
-:::
-<div style={{textAlign: 'center'}}>
-  <img src="https://i.imgur.com/2rHpcJb.png" />
-</div>
