@@ -11,7 +11,7 @@ sidebar_position: 3
 ### 1. Cumplimiento de la Normativa
 - Todos los miembros de la facción deben conocer la normativa general del servidor y deben tenerla en consideración al momento de desenvolverse tanto dentro como fuera de servicio.
 
-### 2. Requisitos para entrar a LSC 
+### 2. Requisitos para entrar a LSC
 - 2.1. Edad mínima OOC de 17 años.
 - 2.2. Prueba oral a través de entrevista.
 - 2.3. Tener conocimientos del rol mecanico y estar dispuesto a aprender más.
@@ -34,16 +34,6 @@ Lo siguiente son requisitos "**opcionales** que se definirá a criterio del **je
 ### 5. Patrullaje en grúa
 - 5.1. Para realizar patrullas, deben haber al menos 2 mecánicos en el taller, además del mecánico conductor del vehículo de la grúa.
 - 5.2. Se requiere autorización del jefe o un superior para patrullar sin cumplir con el requisito anterior.
-<!-- 
-### 6. Costo de Reparaciones y transporte según la distancia
-- El costo de las reparaciones fuera del taller varía según las millas recorridas:
-Reparaciones:
-- En la ciudad: $3,000
-- Fuera de la ciudad: $5,000
-
-Transporte:
-- En la ciudad: 5,000
-- Fuera de la ciudad: 6,000 -->
 
 ### 6. Cobro Obligatorio
 - 6.1. Los mecánicos deben cobrar obligatoriamente los tuneos, las reparaciones y transporte en factura, brindando transparencia y coherencia en las transacciones.
