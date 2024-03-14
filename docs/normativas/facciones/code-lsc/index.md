@@ -11,7 +11,7 @@ sidebar_position: 3
 ### 1. Cumplimiento de la Normativa
 - Todos los miembros de la facción deben conocer la normativa general del servidor y deben tenerla en consideración al momento de desenvolverse tanto dentro como fuera de servicio.
 
-### 2. Requisitos para entrar a LSC
+### 2. Requisitos para entrar a LSC 
 - 2.1. Edad mínima OOC de 17 años.
 - 2.2. Prueba oral a través de entrevista.
 - 2.3. Tener conocimientos del rol mecanico y estar dispuesto a aprender más.
