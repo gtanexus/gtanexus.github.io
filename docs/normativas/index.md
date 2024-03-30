@@ -147,17 +147,19 @@ Una zona segura es un lugar donde no se podrá realizar ningún acto delictivo q
 ## 9. ACTOS DELICTIVOS
 ### 9.1. ROBOS A TIENDAS
 
-|                                      | Robo a tienda        | Robo a joyería | Robo a casas |
-| :-                                   |:----------:          |:----------:    |:----------:  |
-| **Policías mínimos**                 | 1                    | 6              | 4            |
-| **Atracadores máximos**              | 3                    | 5              | 3            |
-| **Rehenes máximos**                  | Tendero + 2 usuarios | 4 usuarios     | -            |
-| **Tiradores (francotirador)**        | NO                   | 1              | NO           |
-| **Tiradores (pistola, subfusil...)** | 1                    | 1              | 1            |
+|                                      | Robo a tienda        | Robo a joyería        | Robo a casas | Fleeca                |
+| :-                                   |:----------:          |:----------:           |:----------:  |:----------:           |
+| **Policías mínimos**                 | 1                    | 4                     | 2            | 3                     |
+| **Policías máximos**                 | 3                    | 6                     | 4            | 5                     |
+| **Atracadores máximos**              | 3                    | 5                     | 3            | 4                     |
+| **Rehenes máximos**                  | Tendero + 2 usuarios | Tendero + 3 usuarios  | -            | Tendero + 2 usuarios  |
+| **Tiradores (francotirador)**        | NO                   | 1                     | NO           | NO                    |
+| **Tiradores (pistola, subfusil...)** | 1                    | 1                     | 1            | 1                     |
 
 - "Atracadores máximos" se refiere tanto a los atracadores que hay dentro de la tienda como fuera (tiradores), por ejemplo, en caso de robar una tienda, podrán ser 3 atracadores dentro o 2 dentro y uno fuera (tirador).
 - Se podrá rolear tener al tendero (vendedor de la tienda) como rehén para negociaciones con la policía.
 - Los tiradores con francotirador también se aplica para la policía.
+- En caso de que se permita tanto un tirador con francotirador y un tirador con pistola o subfusil _(como es en caso de la joyería)_, únicamente se permitirá 1 solo tirador, teniendo que elegir entre un tirador con francotirador o un tirador con pistola. **No se permitirán los dos tipos de tiradores**.
 
 ### 9.2. ROBOS A PERSONAJES
 
@@ -198,14 +200,6 @@ Un rol ofensivo es aquel en el que un jugador interpreta a su personaje de maner
     - Los usuarios y los personajes IC de esos usuarios deberán ser mayores de 18 años.
     - El usuario que se involucre en cualquier rol sexual, podrá abandonar el mismo aunque préviamente lo haya aceptado.
     - Los roles relacionados con la necrofilia, zoofilia, pedofilia y canibalismo están completamente prohibidos.
-
-### 9.5. VENTA DE DROGAS
-
-Se aplica a la venta de drogas a NPCs:
-
-|                                      | Venta de droga    |
-| :-                                   |:----------:       |
-| **Policías mínimos**                 | 1                 |
 
 ## 10. CHAT DE VOZ
 
