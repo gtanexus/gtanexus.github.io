@@ -300,28 +300,32 @@ clasificados, según el procedimiento, en los siguientes artículos:
 - **Artículo 3.7.2.** No negociado: el reo será condenado con $9.000 de multa y 15 meses de prisión.
 - **Artículo 3.7.3.** Con bloqueo y/o emboscada: el reo será condenado con $12.000 de multa y 18 meses de prisión.
 
-#### Artículo 3.8. Robo a banco.
+#### Artículo 3.8. Robo a banco Fleeca.
 Este artículo ya incluye cualesquiera de los artículos descritos en todos los Capítulos de este Código Penal. Serán 
 clasificados, según el procedimiento, en los siguientes artículos:
-- **Artículo 3.8.1.** Negociado: el reo será condenado con $12.000 de multa y 15 meses de prisión.
-- **Artículo 3.8.2.** No negociado: el reo será condenado con $15.000 de multa y 20 meses de prisión.
-- **Artículo 3.8.3.** Con bloqueo y/o emboscada: el reo será condenado con $19.000 de multa y 22 meses de prisión.
+- **Artículo 3.8.1.** Negociado: el reo será condenado con $13.000 de multa y 15 meses de prisión.
+- **Artículo 3.8.2.** No negociado: el reo será condenado con $16.000 de multa y 20 meses de prisión.
+- **Artículo 3.8.3.** Con bloqueo y/o emboscada: el reo será condenado con $20.000 de multa y 22 meses de prisión.
 
 #### Artículo 3.9. Robo a joyería.
 Este artículo ya incluye cualesquiera de los artículos descritos en todos los Capítulos de este Código Penal. Serán 
 clasificados, según el procedimiento, en los siguientes artículos:
-- **Artículo 3.9.1.** Negociado: el reo será condenado con $13.000 de multa y 20 meses de prisión.
-- **Artículo 3.9.2.** No negociado: el reo será condenado con $16.000 de multa y 23 meses de prisión.
-- **Artículo 3.9.3.** Con bloqueo y/o emboscada: el reo será condenado con $20.000 de multa y 26 meses de prisión.
+- **Artículo 3.9.1.** Negociado: el reo será condenado con $22.000 de multa y 20 meses de prisión.
+- **Artículo 3.9.2.** No negociado: el reo será condenado con $26.000 de multa y 23 meses de prisión.
+- **Artículo 3.9.3.** Con bloqueo y/o emboscada: el reo será condenado con $28.000 de multa y 26 meses de prisión.
 
-#### Artículo 3.10. Robo a Banco Central.
+#### Artículo 3.10. Robo a Banco Central o Paleto.
 Este artículo ya incluye cualesquiera de los artículos descritos en todos los Capítulos de este Código Penal. Serán 
 clasificados, según el procedimiento, en los siguientes artículos:
-- **Artículo 3.10.1.** Negociado: el reo será condenado con $25.000 de multa y 25 meses de prisión.
-- **Artículo 3.10.2.** No negociado: el reo será condenado con $35.000 de multa y 30 meses de prisión.
-- **Artículo 3.10.3.** Con bloqueo y/o emboscada: el reo será condenado con $40.000 de multa y 35 meses de prisión.
+- **Artículo 3.10.1.** Negociado: el reo será condenado con $35.000 de multa y 25 meses de prisión.
+- **Artículo 3.10.2.** No negociado: el reo será condenado con $45.000 de multa y 30 meses de prisión.
+- **Artículo 3.10.3.** Con bloqueo y/o emboscada: el reo será condenado con $55.000 de multa y 35 meses de prisión.
 
-#### Artículo 3.11. Robo a casas.
+#### Artículo 3.11. Robo a camión blindado.
+Este artículo ya incluye cualesquiera de los artículos descritos en todos los Capítulos de este Código Penal. Conllevará multa económica
+de $8.000 y pena de prisión de 10 meses.
+
+#### Artículo 3.12. Robo a casas.
 Este artículo ya incluye cualesquiera de los artículos descritos en todos los Capítulos de este Código Penal. Conllevará multa económica
 de $7.500 y pena de prisión de 10 meses.
 
@@ -385,7 +389,7 @@ de armas, con una multa económica de $60.000, 30 meses de prisión y la incauta
 #### Artículo 4.11. Exhibición o uso de armas en vía pública.
 - **Artículo 4.11.1.** Exhibición de arma legal con licencia sin justificación válida: retirada del arma.
 - **Artículo 4.11.2.** Exhibición de arma sin licencia: retirada del arma y $10.000 de multa.
-- **Artículo 4.11.3.** Exhibición de arma ilegal: lo reflejado en el artículo 58.
+- **Artículo 4.11.3.** Exhibición de arma ilegal: lo reflejado en el artículo 4.6 + $2.000.
 - **Artículo 4.11.4.** Uso de arma legal con licencia sin justificación válida: retirada del arma, $5.000 y licencia.
 - **Artículo 4.11.5.** Uso de arma legal sin licencia: retirada del arma, $30.000 de multa y 15 meses de prisión
 - **Artículo 4.11.6.** Uso de arma ilegal: lo reflejado en el artículo 4.6 + $10.000.
@@ -426,7 +430,7 @@ Se considerará dinero negro o ilegal aquel que se mantiene oculto a la hacienda
 de operaciones ilegales o hechos delictivos.
 
 #### Artículo 6.2. Posesión de dinero ilegal.
-La posesión de dinero ilegal será castigada con una multa basada en la mitad del dinero incautado.
+La posesión de dinero ilegal será castigada con una multa de $2.000 y su incautación.
 
 #### Artículo 6.3. Acciones contra el blanqueo de capitales.
 Los agentes de policía tendrán la obligación de requisar el dinero ilegal que sea descubierto, así como los objetos que 
@@ -440,7 +444,7 @@ $30.000, 20 meses de prisión y la incautación de todo el dinero ilegal que pos
 
 #### Artículo 7.1. Agresión verbal.
 El que ejerza, por medio del lenguaje verbal, la violencia, pretendiendo hacer daño a un agente con un mensaje o un 
-discurso hiriente, será sancionado con una multa de $1.000 a $3.000.
+discurso hiriente, será sancionado con una multa de $1.000.
 
 #### Artículo 7.2. Desacato.
 Aquellos que resistieren o desobedecieren a la autoridad o sus agentes en el ejercicio de sus funciones, o al personal 
@@ -458,7 +462,7 @@ Aquellos que no colaboraren con la justicia o los agentes en el ejercicio de sus
 #### Artículo 7.5. Atentado a la autoridad.
 Son reos de atentado los que agredieren o, con intimidación grave o violencia, opusieren resistencia grave a la autoridad, 
 a sus agentes o funcionarios públicos, o los acometieren, cuando se hallen en el ejercicio de las funciones de sus 
-cargos o con ocasión de ellos. Los atentados serán castigados con multas de $20.000 a $50.000 y prisión de 20 a 30 
+cargos o con ocasión de ellos. Los atentados serán castigados con multas de $20.000 y prisión de 20 a 30 
 meses.
 
 #### Artículo 7.6. Intento o secuestro.
