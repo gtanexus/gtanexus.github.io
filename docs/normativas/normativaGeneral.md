@@ -9,7 +9,6 @@ sidebar_position: 2 #2
 ## Introducción
 
 
-
 ## 1. POWERGAMING (PG)
 
 El Powergaming (PG) se define como la realización de actividades en las que se empleen abusos de las mecánicas del juego, lo que resulta en representaciones irreales e imposibles de llevar a cabo en la vida real. Esto incluye forzar roles o acciones sobre otros jugadores, abusar de los comandos de rol como /me, y aprovecharse de circunstancias del juego GTA V que prueben ser irreales. El PG también abarca no representar de manera realista las reacciones y sentimientos del personaje, como el miedo.
@@ -140,7 +139,22 @@ Una zona segura es un lugar donde no se podrá realizar ningún acto delictivo q
 - Cuando se utiliza una máscara (parcial o total), la identidad de la persona no puede ser reconocida. Sin embargo, ciertos detalles como el color del cabello o de los ojos podrían ser perceptibles dependiendo del tipo de máscara, lo que podría levantar sospechas o incluso revelar la identidad del personaje.
 
 ## 9. ACTOS DELICTIVOS
-### 9.1. ROBOS A TIENDAS
+
+### TIPOS DE ROBOS
+|                              | Robo menor  | Robo mediano  | Robo grande  |
+| :-                           |:----------: |:----------:   |:----------:  |
+| **Badulake**                 | ✅          |               |              |
+| **Tienda de ropa**           | ✅          |               |              |
+| **DigitalDen**               | ✅          |               |              |
+| **Fleeca**                   |              | ✅           |              |
+| **Joyería**                  |              | ✅           |              |
+| **Banco de Paleto**          |              |               | ✅          |
+| **Banco central**            |              |               | ✅          |
+| **Atraco a blindado**        | ✅          |               |              |
+| **Robo a NPCs**              | ✅          |               |              |
+| **Robo a usuario**           | ✅          |               |              |
+
+### 9.1. ESPECIFICACIONES SOBRE ROBOS
 
 |                                      | Robo a tienda        | Robo a joyería | Robo a casas |
 | :-                                   |:----------:          |:----------:    |:----------:  |
