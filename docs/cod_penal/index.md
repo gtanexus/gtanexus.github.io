@@ -87,6 +87,8 @@ Son circunstancias agravantes:
 
 - **Artículo 7.6.** Ser reincidente cuando el culpable haya sido condenado ejecutoriamente por un delito comprendido en el mismo título de este Código, siempre que sea de la misma naturaleza.
 
+- **Artículo 7.7.** Se juzgará como cómplice a una persona que colabora en la ejecución de un delito o está ligada a la comisión del mismo sin haber participado directamente en él.
+
 ## TÍTULO I – Penas
 
 ### CAPÍTULO I – Delitos contra la seguridad vial
@@ -393,6 +395,7 @@ de armas, con una multa económica de $60.000, 30 meses de prisión y la incauta
 - **Artículo 4.11.4.** Uso de arma legal con licencia sin justificación válida: retirada del arma, $5.000 y licencia.
 - **Artículo 4.11.5.** Uso de arma legal sin licencia: retirada del arma, $30.000 de multa y 15 meses de prisión
 - **Artículo 4.11.6.** Uso de arma ilegal: lo reflejado en el artículo 4.6 + $10.000.
+- **Artículo 4.11.7.** Uso de arma policial no siendo agente de policía: lo reflejado en el artículo 4.5 + 15 meses de prisión.
 
 
 ### CAPÍTULO V - Delitos contra la salud publica
