@@ -465,21 +465,21 @@ Aquellos que no colaboraren con la justicia o los agentes en el ejercicio de sus
 #### Artículo 7.5. Atentado a la autoridad.
 Son reos de atentado los que agredieren o, con intimidación grave o violencia, opusieren resistencia grave a la autoridad, 
 a sus agentes o funcionarios públicos, o los acometieren, cuando se hallen en el ejercicio de las funciones de sus 
-cargos o con ocasión de ellos. Los atentados serán castigados con multas de $20.000 y prisión de 20 a 30 
+cargos o con ocasión de ellos. Los atentados serán castigados con multas de $8.000 y prisión de 5 a 10 
 meses.
 
 #### Artículo 7.6. Intento o secuestro.
 El secuestro de un agente de policía, ya sea fuera o en servicio, exigiendo alguna condición para ponerla en libertad, 
-será castigado con una multa económica de $20.000 y la pena de prisión de 30 meses.
+será castigado con una multa económica de $10.000 y la pena de prisión de 20 meses.
 
 #### Artículo 7.7. Robo con violencia o intimidación.
 Son reos del delito de robo a un agente de policía los que se emplea violencia o intimidación en las personas, sea al 
 cometer el delito, para proteger la huida, o sobre los que acudiesen en auxilio de la víctima o que le persiguieren. Será 
-castigado con $30.000 de multa y 35 meses de prisión.
+castigado con $12.000 de multa y 15 meses de prisión.
 
 #### Artículo 7.8. Intento de homicidio (PK).
 El que, por cualquier medio o procedimiento, intentare causar la muerte de un agente, será castigado como reo del 
-delito de intento de homicidio con una multa económica de $50.000 y una pena de prisión de 30 meses.
+delito de intento de homicidio con una multa económica de $15.000 y una pena de prisión de 20 meses.
 
 #### Artículo 7.9. Homicidio doloso (CK).
 El que, por cualquier medio o procedimiento, causare la muerte de un agente de forma voluntaria e intencionada, será 
