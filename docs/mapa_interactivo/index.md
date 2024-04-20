@@ -1,6 +1,5 @@
 ---
 title: Mapa Interactivo
-sidebar_position: 10
 ---
 
 # MAPA INTERACTIVO
