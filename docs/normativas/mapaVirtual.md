@@ -1,5 +1,5 @@
 ---
-id: mapa_virt
+id: mapa-virtual
 title: MAPA VIRTUAL
 sidebar_label: Mapa
 sidebar_position: 10
