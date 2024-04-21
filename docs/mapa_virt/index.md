@@ -1,5 +1,7 @@
 ---
-title: Mapa Interactivo
+id: mapa_virt
+title: MAPA VIRTUAL
+sidebar_label: Mapa
 sidebar_position: 10
 ---
 
